@@ -1,0 +1,7 @@
+0.110
+
+Protokoll 39
+
+über die ECU
+
+Als "ECU" im Sinne dieses Abkommens gilt die von den zuständigen Gemeinschaftsbehörden festgelegte ECU. Die Bezeichnung "Europäische Rechnungseinheit" wird in allen Rechtsakten, auf die in den Anhängen zum Abkommen Bezug genommen wird, durch "ECU" ersetzt.
