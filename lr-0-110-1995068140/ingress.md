@@ -1,0 +1,9 @@
+0.110
+
+Protokoll 40
+
+über Svalbard
+
+1) Das Königreich Norwegen ist berechtigt, bei der Ratifizierung des EWR-Abkommens das Gebiet Svalbards von der Anwendung des Abkommens auszunehmen.
+
+2) Macht das Königreich Norwegen von diesem Recht Gebrauch, so gelten bestehende Übereinkünfte, die für Svalbard gelten, z.B. das Übereinkommen zur Errichtung der Europäischen Freihandelsassoziation, das Freihandelsabkommen zwischen der Europäischen Wirtschaftsgemeinschaft und dem Königreich Norwegen und das Freihandelsabkommen zwischen den Mitgliedstaaten der Europäischen Gemeinschaft für Kohle und Stahl und der Europäischen Gemeinschaft für Kohle und Stahl einerseits und dem Königreich Norwegen andererseits, auch weiterhin für das Gebiet Svalbards.
