@@ -1,0 +1,3 @@
+# Art. 14bis Technische und finanzielle Hilfe
+
+Falls das Organ dies für angemessen hält, kann es mit der Zustimmung der betreffenden Regierung entweder zusammen mit den in Abs. 1 und 2 von Art. 14 genannten Massnahmen oder an deren Stelle den zuständigen Organen der Vereinten Nationen und den spezialisierten Institutionen empfehlen, dass der betreffenden Regierung eine technische oder finanzielle Hilfe oder beides zusammen geboten werde; um deren Bemühungen bei der Erfüllung ihrer aus diesem Übereinkommen hervorgehenden Pflichten, insbesondere jener, die in Art. 2, 35, 38 und 38bis aufgestellt oder erwähnt sind, zu unterstützen.
