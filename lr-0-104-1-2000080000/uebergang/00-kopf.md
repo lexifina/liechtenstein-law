@@ -1,0 +1,5 @@
+## Erklärung betreffend die Anerkennung der Zuständigkeit des Ausschusses zur Beseitigung von Rassendiskriminierung (CERD) für die Entgegennahme und Erörterung von Mitteilungen gemäss Art. 14 des Internationalen Übereinkommens zur Beseitigung jeder Form von Rassendiskriminierung
+
+Das Fürstentum Liechtenstein erklärt gemäss Art. 14 des Internationalen Übereinkommens vom 21. Dezember 1965 über die Beseitigung jeder Form von Rassendiskriminierung, dass es die Zuständigkeit des Ausschusses für die Beseitigung der Rassendiskriminierung für die Entgegennahme und Erörterung von Mitteilungen einzelner der liechtensteinischen Hoheitsgewalt unterstehender Personen oder Personengruppen anerkennt, die vorgeben, Opfer einer Verletzung eines in diesem Übereinkommen vorgesehenen Rechts durch Liechtenstein zu sein.
+
+Das Fürstentum Liechtenstein anerkennt diese Zuständigkeit unter der Voraussetzung, dass der genannte Ausschuss keine Mitteilung erörtert, ohne sich vergewissert zu haben, dass dieselbe Angelegenheit nicht in einem anderen internationalen Untersuchungs- oder Schlichtungsverfahren geprüft wird oder geprüft worden ist.
