@@ -1,0 +1,7 @@
+0.110
+
+Protokoll 46
+
+über die Entwicklung der Zusammenarbeit in der Fischerei
+
+Im Lichte der Ergebnisse der Zweijahresprüfungen über den Stand der Zusammenarbeit in der Fischerei werden sich die Vertragsparteien bemühen, diese Zusammenarbeit auf harmonischer, gegenseitig vorteilhafter Grundlage und im Rahmen ihrer jeweiligen Fischereipolitik zu entwickeln. Die erste Prüfung wird vor Ende 1993 stattfinden.
