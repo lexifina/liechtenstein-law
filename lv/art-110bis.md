@@ -1,3 +1,0 @@
-# Art. 110bis
-
-In Gemeindeangelegenheiten sind alle in der Gemeinde wohnhaften Landesangehörigen wahl- und stimmberechtigt, die das 18. Lebensjahr vollendet haben und nicht im Wahl- und Stimmrecht eingestellt sind.

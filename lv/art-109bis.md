@@ -1,7 +1,0 @@
-# Art. 109bis
-
-1) Das Land, die Gemeinden und die sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts haften für den Schaden, den die als ihre Organe handelnden Personen in Ausübung ihrer amtlichen Tätigkeit Dritten widerrechtlich zufügen. Bei Vorsatz oder grober Fahrlässigkeit bleibt der Rückgriff auf die fehlbaren Personen vorbehalten.
-
-2) Die als Organe handelnden Personen haften dem Land, der Gemeinde oder sonstigen Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts, in deren Dienst sie stehen, für den Schaden, den sie ihnen durch vorsätzliche oder grobfahrlässige Verletzung der Amtspflichten unmittelbar zufügen.
-
-3) Die näheren Bestimmungen, insbesondere über die Zuständigkeit, werden durch Gesetz getroffen.
