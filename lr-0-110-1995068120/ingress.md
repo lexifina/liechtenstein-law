@@ -1,0 +1,13 @@
+0.110
+
+Protokoll 20
+
+über den Zugang zu Binnenwasserstrassen
+
+1. Die Vertragsparteien gewähren einander Zugang zu ihren Binnenwasserstrassen. Im Falle von Rhein und Donau unternehmen die Vertragsparteien alle erforderlichen Schritte, um die Ziele des gleichberechtigten Zugangs und der Niederlassungsfreiheit im Bereich der Binnenwasserstrassen gleichzeitig zu erreichen.
+
+2. Bis 1. Januar 1996 werden in den zuständigen internationalen Organisationen Vereinbarungen ausgearbeitet, die unter Berücksichtigung der Verpflichtungen aus den diesbezüglichen multilateralen Abkommen allen Vertragsparteien einen gleichberechtigten Zugang zu den Binnenwasserstrassen im Gebiet der Vertragsparteien sichern.
+
+3. Alle einschlägigen Rechtsvorschriften der Gemeinschaft über die Binnenwasserstrassen gelten ab Inkrafttreten des Abkommens für die Vertragsparteien, die zu diesem Zeitpunkt Zugang zu den Wasserstrassen der Gemeinschaft haben, und für die übrigen EFTA-Staaten, sobald auch sie gleichberechtigten Zugang erhalten.
+
+- Dagegen gilt für Binnenschiffe aus den letzteren EFTA-Staaten, die nach dem 1. Januar 1993 in Fahrt gesetzt wurden, Art. 8 der Verordnung (EWG) Nr. 1101/89 des Rates vom 27. April 1989 (ABl. Nr. L 116 vom 28.4.1989, S. 25) in der für die Zwecke des Abkommens angepassten Fassung, sobald diese Staaten Zugang zu den Binnenwasserstrassen der Gemeinschaft erhalten.
