@@ -1,5 +1,7 @@
-# Art. 8b b) Gesuch
+# Art. 8b Elektronische Stimmabgabe
 
-1) Wer brieflich stimmen will, hat bei der Gemeindekanzlei ein schriftliches Gesuch zu stellen, worin er die Gründe anzugeben hat, weshalb er die briefliche Stimmabgabe beansprucht.
+1) Die Regierung kann im Einvernehmen mit interessierten Gemeinden örtlich, zeitlich und sachlich begrenzte Versuche zur elektronischen Stimmabgabe genehmigen.
 
-2) Gesuche müssen spätestens bis zum letzten Mittwoch vor dem Abstimmungssonntag bei der Gemeindekanzlei eintreffen.
+2) Die Kontrolle der Stimmberechtigung, das Stimm- und Wahlgeheimnis sowie die Erfassung aller Stimmen müssen gewährleistet und Missbräuche ausgeschlossen bleiben.
+
+3) Die Regierung regelt die Voraussetzungen für die elektronische Stimmabgabe, insbesondere die Voraussetzungen gültiger Stimmabgabe und die Ungültigkeitsgründe, mit Verordnung.
