@@ -1,0 +1,7 @@
+0.110
+
+Protokoll 29
+
+über die berufliche Bildung
+
+Zur Förderung der Mobilität junger Menschen innerhalb des EWR kommen die Vertragsparteien überein, ihre Zusammenarbeit auf dem Gebiet der beruflichen Bildung zu verstärken und sich um eine Verbesserung der Bedingungen für Studenten zu bemühen, die in einem anderen als ihrem eigenen EWR-Staat studieren wollen. In diesem Zusammenhang kommen sie überein, dass die Bestimmungen des Abkommens betreffend das Aufenthaltsrecht für Studenten die vor Inkrafttreten des Abkommens bestehenden Möglichkeiten einzelner Vertragsparteien in Bezug auf die von ausländischen Studenten erhobenen Studiengebühren nicht berühren.
