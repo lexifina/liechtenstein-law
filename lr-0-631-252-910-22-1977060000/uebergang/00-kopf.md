@@ -1,0 +1,185 @@
+## Abkommen zwischen der Schweizerischen Eidgenossenschaft und der Republik Österreich über den Grenzübertritt von Personen im Kleinen Grenzverkehr
+
+Abgeschlossen am 13. Juni 1973
+
+Ratifikationsurkunden ausgetauscht am 11. Februar 1974
+
+Inkrafttreten: 12. April 1974
+
+Die Schweizerische Eidgenossenschaft
+
+und
+
+die Republik Österreich,
+
+von dem Wunsche geleitet, den Personenverkehr in den Grenzzonen zu erleichtern, haben folgendes vereinbart:
+
+Art. 1
+
+- Grenzzonen
+
+- 1) Dieses Abkommen regelt den Grenzübertritt von Personen zwischen den Grenzzonen der Schweiz und Österreichs. Es erstreckt sich auch auf den Kleinen Grenzverkehr zwischen dem Fürstentum Liechtenstein und Österreich.
+
+- 2) Grenzzonen im Sinne dieses Abkommens sind:
+
+  - 1. in der Schweiz und im Fürstentum Liechtenstein:
+
+    - a) die Kantone St. Gallen, Appenzell A. Rh., Appenzell I. Rh., Thurgau, vom Kanton Graubünden die Bezirke Plessur, Imboden, Ober- und Unterlandquart sowie das Engadin, das Münstertal und die Gemeinde Samnaun;
+
+    - b) das Fürstentum Liechtenstein;
+
+  - 2. in Österreich:
+
+    - a) das Land Vorarlberg und der politische Bezirk Landeck.
+
+Art. 2
+
+- Grenzkarte
+
+- 1) Angehörigen der Vertragsstaaten sowie Drittausländern und Staatenlosen, die zum Aufenthalt in einem Vertragsstaat berechtigt sind, kann, wenn sie ihren Wohnsitz in der Grenzzone haben, von den zuständigen Behörden des Wohnsitzstaates eine Grenzkarte ausgestellt werden.
+
+- 2) Die Grenzkarte berechtigt den Inhaber, die Staatsgrenze beliebig oft zu überschreiten und sich ohne besondere Aufenthaltsbewilligung bis zu drei Tagen in der Grenzzone des anderen Vertragsstaates aufzuhalten. Von der Ausstellung einer Grenzkarte an einen Drittausländer oder Staatenlosen ist der andere Vertragsstaat innerhalb einer Woche zu benachrichtigen. Die Benachrichtigung erfolgt über die Kantonale Fremdenpolizei St. Gallen an die Sicherheitsdirektion für das Bundesland Vorarlberg und umgekehrt.
+
+- 3) Kinder bis zu 15 Jahren können in die Grenzkarte eines oder beider Elternteile oder eines sonstigen gesetzlichen Vertreters miteingetragen werden, wobei die für die Miteintragung in Reisepässe geltenden innerstaatlichen Rechtsvorschriften sinngemäss anzuwenden sind.
+
+- 4) Die Grenzkarte kann mit einer Gültigkeitsdauer bis zu fünf Jahren ausgestellt und bis zu einer Gesamtdauer von zehn Jahren verlängert werden. Bei Drittausländern und Staatenlosen darf die Gültigkeitsdauer der Grenzkarte diejenige der Aufenthaltsbewilligung nicht überschreiten.
+
+- 5) Die Grenzkarte wird im Format von ca. 10,5 x 15 cm vierseitig ausgestellt; sie ist mit einem Lichtbild des Inhabers zu versehen und hat folgende Angaben über seine Person zu enthalten: Name, Vorname, Geburtsdatum, Staatsangehörigkeit und Wohnadresse. Ferner muss die Grenzkarte die Bezeichnung der ausstellenden Behörde, das Ausstellungsdatum, die Gültigkeitsdauer und Raum für die Verlängerung der Gültigkeitsdauer und für die Miteintragung von Kindern aufweisen. Die Grenzkarte ist vom Inhaber zu unterschreiben.
+
+Art. 3
+
+- Ausflugsscheine
+
+- 1) Angehörigen der Vertragsstaaten sowie Drittausländern und Staatenlosen, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, kann, gleichgültig wo sie ihren Wohnsitz haben, ein Ausflugsschein ausgestellt werden.
+
+- 2) Aus Gründen der Menschlichkeit kann Drittausländern und Staatenlosen auch dann, wenn sie im anderen Vertragsstaat der Visumspflicht unterliegen, ein Ausflugsschein von der Fremdenpolizei der in der Grenzzone liegenden Kantone oder vom Liechtensteinischen Passbüro beziehungsweise von der Sicherheitsdirektion für das Bundesland Tirol oder der Sicherheitsdirektion für das Bundesland Vorarlberg ausgestellt werden.
+
+- 3) Für den gemeinsamen Grenzübertritt von mindestens fünf Angehörigen der Vertragsstaaten sowie Drittausländern und Staatenlosen, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, kann ein Sammelausflugsschein ausgestellt werden.
+
+- 4) Für die Ausstellung eines Ausflugsscheines an Kinder bis zu 15 Jahren und für die Eintragung von Kindern bis zu 15 Jahren in den Ausflugsschein einer anderen Person oder in einen Sammelausflugsschein ist die Zustimmung des gesetzlichen Vertreters erforderlich. Von der Zustimmung kann bei der Eintragung in den Ausflugsschein einer anderen Person oder in einen Sammelausflugsschein abgesehen werden, wenn Grund zur Annahme besteht, dass der gesetzliche Vertreter mit der Eintragung einverstanden ist.
+
+- 5) Der Ausflugsschein und der Sammelausflugsschein sind sieben Tage gültig. Während ihrer Gültigkeit berechtigen sie in Verbindung mit einem amtlichen Lichtbildausweis zum mehrmaligen Grenzübertritt und zum Aufenthalt ohne besondere Aufenthaltsbewilligung in der Grenzzone des anderen Vertragsstaates. Kinder bis zu 15 Jahren, die im Ausflugsschein einer anderen Person oder in einem Sammelausflugsschein eingetragen sind, benötigen keinen amtlichen Lichtbildausweis.
+
+- 6) Der Ausflugsschein wird im Format von ca. 10,5 x 15 cm zweiseitig ausgestellt und hat neben der Bezeichnung der ausstellenden Behörde und dem Ausstellungsdatum Namen, Vornamen und Staatsangehörigkeit des Inhabers sowie Raum für die Eintragung von Kindern unter Angabe ihres Namens, Vornamens und Geburtsdatums zu enthalten.
+
+- 7) Der Sammelausflugsschein hat neben der Bezeichnung der ausstellenden Behörde und dem Ausstellungsdatum Namen, Vornamen und Staatsangehörigkeit jeder darin eingetragenen Person zu enthalten. Von Kindern bis zu 15 Jahren sind Name, Vorname und Geburtsdatum aufzunehmen.
+
+- 8) Personen, die mit einem Ausflugsschein oder Sammelausflugsschein in die Grenzzone des anderen Vertragsstaates eingereist sind, dürfen dort keine Erwerbstätigkeit ausüben.
+
+Art. 4
+
+- Dienstausweis
+
+- Die Bediensteten der öffentlichen Verwaltung, der Post-, Telefon- und Telegrafenverwaltung und der Eisenbahnen der Vertragsstaaten können die Staatsgrenze zur Ausübung ihrer dienstlichen Funktionen auf Grund eines von ihrer Dienststelle ausgestellten Lichtbildausweises überschreiten und sich in der Grenzzone des anderen Vertragsstaates für die Dauer ihrer dienstlichen Tätigkeit aufhalten.
+
+Art. 5
+
+- Grenzübertritt
+
+- Der Grenzübertritt im Rahmen des Kleinen Grenzverkehrs ist sowohl an den nach den innerstaatlichen Rechtsvorschriften als auch an den nach diesem Abkommen bestehenden Grenzübergängen zulässig.
+
+Art. 6
+
+- Grenzübertritt am Bodensee und am Alten Rhein
+
+- Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, dürfen am Bodensee und am Alten Rhein bis zur Zollbrücke Rheineck-Gaissau auf dem Gebiet der Vertragsstaaten landen oder ablegen, wenn sie ein für den Grenzübertritt gültiges Reisedokument mit sich führen und kein dem gewerbsmässigen Personen- oder Gütertransport dienendes Wasserfahrzeug benützen.
+
+Art. 7
+
+- Grenzübertritt im Grenzgebirge
+
+- Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, dürfen, wenn sie einen amtlichen Lichtbildausweis mit sich führen, bei Touren im Grenzgebirge die Staatsgrenze überschreiten und sich in der Grenzzone des anderen Vertragsstaates bis zu einer Tiefe von fünf Kilometern und bis zu einer Dauer von drei Tagen aufhalten. Das Grenzgebirge erstreckt sich von der Mistelmark an der liechtensteinisch-österreichischen Staatsgrenze bis zum Dreiländergrenzpunkt am Piz Lad.
+
+Art. 8
+
+- Grenzübertritt auf Wanderwegen ausserhalb des Grenzgebirges
+
+- 1) Angehörige der Vertragsstaaten sowie Drittausländer und Staatenlose, die im anderen Vertragsstaat der Visumspflicht nicht unterliegen, dürfen, wenn sie einen amtlichen Lichtbildausweis mit sich führen, die Staatsgrenze als Wanderer auf den dafür bestimmten Wegen überschreiten.
+
+- 2) Auf welchen Wanderwegen der Grenzübertritt gestattet ist, bestimmt sich nach den innerstaatlichen Rechtsvorschriften. Die zuständigen Behörden der Vertragsstaaten haben durch unmittelbaren Kontakt zu klären, ob ein Bedürfnis für die Schaffung eines Wanderweges besteht.
+
+Art. 9
+
+- Grenzübertritt zur land- und forstwirtschaftlichen Bewirtschaftung
+
+- Den Eigentümern und Nutzungsberechtigten grenzdurchschnittener oder in Grenznähe gelegener land- und forstwirtschaftlicher Grundstücke, ihren Familienmitgliedern und Arbeitskräften ist, wenn sie einen amtlichen Lichtbildausweis mit sich führen, der Grenzübertritt zur Bewirtschaftung innerhalb dieser Grundstücke oder auf direktem Wege zu diesen Grundstücken gestattet; sie dürfen sich jedoch von den Grundstücken nicht weiter auf das Gebiet des anderen Vertragsstaates begeben.
+
+Art. 10
+
+- Grenzübertritt zur Hilfeleistung
+
+- Die Staatsgrenze darf ohne Beachtung der sonst hiefür geltenden Rechtsvorschriften überschritten werden, um bei Unglücks- oder Katastrophenfällen in der Grenzzone Hilfe zu leisten oder in Anspruch zu nehmen.
+
+Art. 11
+
+- Verweigerung und Entzug von Dokumenten
+
+- 1) Die Ausstellung einer Grenzkarte ist zu verweigern, wenn nach den innerstaatlichen Rechtsvorschriften die Ausstellung eines Reisepasses zu versagen wäre.
+
+- 2) Die Ausstellung eines Ausflugsscheines oder die Eintragung in einen Sammelausflugsschein ist zu verweigern, wenn Tatsachen die Annahme rechtfertigen, dass der Antragsteller bei einem Aufenthalt im anderen Vertragsstaat gegen dessen Rechtsvorschriften verstossen würde.
+
+- 3) Die Grenzkarte und die Ausflugsscheine sind zu entziehen, wenn Tatsachen eintreten oder nachträglich bekannt werden, welche die Verweigerung rechtfertigen würden. Sie sind ferner zu entziehen, wenn die zuständige Behörde des anderen Vertragsstaates es verlangt.
+
+- 4) Bei Missbrauch können die Grenzkontrollorgane der Vertragsstaaten Grenzkarten und Ausflugsscheine abnehmen. Abgenommene Dokumente sind unter Angabe des Grundes unverzüglich der Behörde zu übersenden, die sie ausgestellt hat. Diese hat über den Entzug zu entscheiden.
+
+Art. 12
+
+- Zuständige Behörden
+
+- 1) Sofern in diesem Abkommen nichts anderes vorgesehen ist, sind zuständige Behörden:
+
+  - 1. in der Schweiz: die Polizeidirektionen der zur Grenzzone gehörenden Kantone und die von ihnen bestimmten Amtsstellen;
+
+  - 2. im Fürstentum Liechtenstein: die Regierung des Fürstentums Liechtenstein und die von ihr bestimmten Amtsstellen;
+
+  - 3. in Österreich: die Bezirksverwaltungsbehörden in der Grenzzone; für die Ausstellung von Ausflugsscheinen und Sammelausflugsscheinen überdies diejenigen Gemeinden, die von der Bezirksverwaltungsbehörde im Interesse einer beschleunigten Ausstellung bestimmt werden, sowie die an der gemeinsamen Staatsgrenze gelegenen Grenzkontrollstellen.
+
+- 2) Die Vertragsstaaten geben einander die gemäss Abs. 1 Ziff. 1 und 2 bestimmten Amtsstellen beziehungsweise die gemäss Abs. 1 Ziff. 3 bestimmten Gemeinden bekannt. Die Bekanntgabe erfolgt über das Eidgenössische Justiz- und Polizeidepartement an das Bundesministerium für Inneres und umgekehrt.
+
+Art. 13
+
+- Rücknahme von Personen
+
+- Die Vertragsstaaten werden Personen, die auf Grund dieses Abkommens in das Hoheitsgebiet des anderen Vertragsstaates eingereist sind, jederzeit formlos zurücknehmen.
+
+Art. 14
+
+- Vorbehaltene Rechtsvorschriften
+
+- In den Vertragsstaaten bleiben unberührt:
+
+  - 1. die Rechtsvorschriften über die Zurückweisung, Weg- oder Ausweisung von Ausländern und Staatenlosen und, soweit nicht Art. 3 Abs. 8 anzuwenden ist, die Rechtsvorschriften über die Ausübung einer Erwerbstätigkeit durch Ausländer und Staatenlose;
+
+  - 2. die zollgesetzlichen Vorschriften und die anderen Rechtsvorschriften über die Ein-, Aus- oder Durchfuhr von Waren und Beförderungsmitteln.
+
+Art. 15
+
+- Vorübergehende Aussetzung des Abkommens
+
+- Jeder der beiden Vertragsstaaten kann aus Gründen der öffentlichen Sicherheit oder Ordnung die Durchführung dieses Abkommens mit Ausnahme des Art. 13 vorübergehend ganz oder teilweise aussetzen. Dies ist dem anderen Vertragsstaat unverzüglich auf diplomatischem Wege mitzuteilen.
+
+Art. 16
+
+- Inkrafttreten, Dauer und Kündigung
+
+- 1) Dieses Abkommen ist zu ratifizieren. Es tritt 60 Tage nach Austausch der Ratifikationsurkunden in Kraft.
+
+- 2) Das Abkommen wird für die Dauer eines Jahres abgeschlossen. Es bleibt weiterhin für jeweils ein Jahr in Kraft, sofern es nicht sechs Monate vor Ablauf des Jahres auf diplomatischem Wege schriftlich gekündigt wird.
+
+- 3) Die Kündigung lässt die Rücknahmeverpflichtung gemäss Art. 13 unberührt.
+
+Art. 17
+
+- Schlussbestimmungen
+
+- 1) Mit dem Inkrafttreten dieses Abkommens tritt das Übereinkommen vom 30. Mai 1950 zwischen der Schweiz und Österreich über den Grenzübertritt von Personen im Kleinen Grenzverkehr ausser Kraft.
+
+- 2) Die von den schweizerischen und liechtensteinischen Behörden im Rahmen des Kleinen Grenzverkehrs zwischen der Schweiz und dem Fürstentum Liechtenstein einerseits und der Bundesrepublik Deutschland andererseits ausgestellten Grenzkarten, Ausflugsscheine und Sammelausflugsscheine berechtigen zur Durchreise durch das Land Vorarlberg, sofern der Inhaber eines solchen Dokumentes in der Republik Österreich der Visumspflicht nicht unterliegt.
+
+- 3) Die von den österreichischen Behörden im Rahmen des Kleinen Grenzverkehrs zwischen Österreich und der Bundesrepublik Deutschland ausgestellten Grenzkarten, Ausflugsscheine und Sammelausflugsscheine berechtigen zur Durchreise durch das Fürstentum Liechtenstein und die Kantone St. Gallen und Thurgau, sofern der Inhaber eines solchen Dokumentes in der Schweiz der Visumspflicht nicht unterliegt.
+
+- 4) Aufgrund des Übereinkommens vom 30. Mai 1950 ausgestellte Grenzkarten bleiben gültig; ihre Gültigkeitsdauer darf nicht verlängert werden.
+
+Geschehen in Wien, am 13. Juni 1973 in zwei Urschriften in deutscher Sprache.
+
+Für die Schweizerische Eidgenossenschaft: O. Rossetti | Für die Republik Österreich: Rudolf Kirchschläger
