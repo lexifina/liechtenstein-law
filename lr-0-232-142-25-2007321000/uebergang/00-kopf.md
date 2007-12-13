@@ -1,0 +1,1 @@
+## Geltungsbereich der des Protokolls
