@@ -1,0 +1,3 @@
+## Gemeinsame Erklärung zum Beschluss Nr. 125/2007 zur Aufnahme der Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates in das Abkommen
+
+"Die Vertragsparteien erkennen an, dass die Gewässer in Europa unterschiedlichen anthropogenen Belastungen und Auswirkungen ausgesetzt sind. Daher können die Massnahmen, die zur Erreichung der Umweltziele der Richtlinie ergriffen werden, von Region zu Region unterschiedlich sein. Die Wasserrahmenrichtlinie trägt diesen Unterschieden Rechnung. Sie ermöglicht den für die Umsetzung der Richtlinie verantwortlichen Behörden, Massnahmen zu treffen, die den Belastungen und Auswirkungen in ihrem Gebiet angemessen sind und zur Verwirklichung der Umweltziele beitragen."
