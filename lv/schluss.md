@@ -24,7 +24,7 @@ Ich beauftrage Sie, diese Meine Entschliessungen zur allgemeinen Kenntnis zu bri
 
 Feldsberg, am 2. Oktober 1921
 
-gez. Johann
+gez.Johann
 
 gez. Jos. Ospelt Fürstlicher Rat
 
