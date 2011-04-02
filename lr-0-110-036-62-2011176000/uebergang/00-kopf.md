@@ -1,0 +1,7 @@
+## Gemeinsame Erklärung der Vertragsparteien zu Beschluss Nr. 6/2011 zur Aufnahme der Richtlinie 2008/101/EG in das EWR-Abkommen
+
+" Richtlinie 2008/101/EG bestimmt, dass die Einkünfte aus der Versteigerung von Zertifikaten für den Luftverkehr für die Bekämpfung des Klimawandels verwendet werden sollten. Die Anwendung der betreffenden Bestimmung durch die EFTA-Staaten berührt nicht den Geltungsbereich des EWR-Abkommens.
+
+Hinsichtlich der Beschlüsse über die Richtwerte nach Art. 3e Abs. 3 und Art. 3f Abs. 5 der Richtlinie 2003/87/EG in der Fassung der Richtlinie 2008/101/EG werden die Vertragsparteien alle Anstrengungen unternehmen, um sicherzustellen, dass die Beschlüsse des Gemeinsamen EWR-Ausschusses zur Aufnahme aller Beschlüsse der Europäischen Kommission rasch angenommen werden und in Kraft treten. Zur Gewährleistung der Homogenität des EWR und seines gemeinsamen Emissionshandelssystems wird den Beschlüssen der Europäischen Kommission, die erforderlichenfalls im schriftlichen Verfahren in das EWR-Abkommen aufgenommen werden, ein gemeinsamer, paralleler Prozess der Vertragsparteien vorausgehen.
+
+Um im EWR ein transparentes Emissionshandelssystem für alle betroffenen Luftfahrzeugbetreiber bereitzustellen, wird die Europäische Kommission in ihre Beschlüsse zur Anwendung der Richtlinie 2008/101/EG besondere Klauseln aufnehmen, in denen darauf hingewiesen wird, dass diese Beschlüsse durch Beschlüsse des Gemeinsamen EWR-Ausschusses auf die EWR-EFTA-Staaten ausgedehnt werden. "
