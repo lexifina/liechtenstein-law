@@ -1,0 +1,3 @@
+## Gemeinsame Erklärung der Vertragsparteien zum Beschluss Nr. 80/2008 zur Aufnahme der Verordnung (EG) Nr. 1569/2007 der Kommission in das Abkommen
+
+" Die Verordnung (EG) Nr. 1569/2007 der Kommission vom 21. Dezember 2007 über die Einrichtung eines Mechanismus zur Festlegung der Gleichwertigkeit der von Drittstaatemittenten angewandten Rechnungslegungsgrundsätze gemäss den Richtlinien 2003/71/EG und 2004/109/EG des Europäischen Parlaments und des Rates behandelt in mehreren Artikeln die an Drittländer gestellte Anforderung der Gleichwertigkeit. Die Aufnahme dieser Richtlinie berührt nicht den Geltungsbereich des EWR-Abkommens. "
