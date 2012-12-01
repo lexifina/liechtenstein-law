@@ -2,7 +2,7 @@
 
 1) Die brieflich abgegebenen Stimmen werden in den Zustellkuverts belassen und bis zur Öffnung durch die Wahl- oder Abstimmungskommission an einem sicheren Ort unter Verschluss gehalten.
 
-2) Die Wahl- oder Abstimmungskommission öffnet die Zustellkuverts und prüft, ob die briefliche Stimmabgabe gültig ist.
+2) Die Wahl- oder Abstimmungskommission öffnet die Zustellkuverts frühestens um 17.00 Uhr des dem Wahl- oder Abstimmungssonntag vorangehenden Freitags und prüft, ob die briefliche Stimmabgabe gültig ist.
 
 3) Sie ist gültig, wenn:
 
@@ -14,17 +14,9 @@
 
 - d) die Stimme spätestens an dem in Art. 8 Abs. 4 genannten Zeitpunkt eingegangen ist.
 
-4) Die Prüfung der brieflichen Stimmabgaben ist im Protokoll (Art. 34) gesondert zu vermerken. Anzugeben sind:
+4) Die Prüfung der brieflichen Stimmabgaben ist im Protokoll (Art. 34) gesondert zu vermerken.
 
-- a) Zeitpunkt der Prüfung der brieflichen Stimmabgabe;
-
-- b) Zahl der fristgerecht eingegangenen brieflichen Stimmabgaben;
-
-- c) Zahl der ungültigen brieflichen Stimmabgaben;
-
-- d) Zahl der gültigen brieflichen Stimmabgaben.
-
-5) Die Wahl- oder Abstimmungskommission legt die Stimmkuverts der als gültig anerkannten brieflichen Stimmabgaben ungeöffnet in die Urne.
+5) Die Wahl- oder Abstimmungskommission legt die Stimmkuverts der als gültig anerkannten brieflichen Stimmabgaben ungeöffnet in die Urne. Die Stimmabgabe ist im Stimmregister anzumerken.
 
 6) Als ungültig erklärte briefliche Stimmabgaben sind wie ungültige Stimmen zu behandeln; die Stimmzettel dürfen aber nicht aus dem Stimmkuvert herausgenommen werden.
 
