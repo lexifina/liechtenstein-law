@@ -1,0 +1,3 @@
+## Einseitige Erklärung Liechtensteins zum Beschluss Nr. 78/2011 zur Aufnahme der Richtlinie 2009/138/EG in das Abkommen
+
+"Das Fürstentum Liechtenstein hat 1996 ein bilaterales Abkommen mit der Schweiz betreffend die Direktversicherung abgeschlossen. Ziel dieses Abkommens ist es, auf Basis der Gegenseitigkeit die Bedingungen zu regeln, die erforderlich und hinreichend sind, um Versicherungsunternehmen, die ihren Sitz im Hoheitsgebiet einer Vertragspartei haben, die Niederlassungs- und Dienstleistungsfreiheit bei der Direktversicherungstätigkeit im Gebiet der anderen Vertragspartei zu ermöglichen."
