@@ -1,0 +1,15 @@
+# Verordnung vom 17. Oktober 1978 betreffend die Naturschutzgebiete "Schneckenäule" und eine Teilfläche in der "Au" in Ruggell
+
+LR 451.101.9 · LGBl. 1978.033 · <https://www.gesetze.li/konso/1978033000>
+
+One current consolidated version is recorded, effective 2014-04-01. It is labelled as the oldest version available; earlier history is not included in this breadth append.
+
+The official chronology names the following source law or laws for this version:
+
+- LGBl. 2014 Nr. 45, issued 2014-02-26: Verordnung vom 18. Februar 2014 über die Abänderung der Verordnung betreffend die Nat...
+
+Text layout: single-file-with-assets. Files:
+
+- `text.md`
+
+The official text contains 1 embedded image(s). Their original bytes are preserved under `assets/` and referenced at their source positions in `text.md`.
