@@ -1,0 +1,35 @@
+Kundmachung
+
+vom 16. September 2014
+
+des Beschlusses Nr. 62/2014 des Gemeinsamen EWR-Ausschusses
+
+Beschluss des Gemeinsamen EWR-Ausschusses: 30. April 2014
+
+Inkrafttreten für das Fürstentum Liechtenstein: 30. April 2014
+
+Aufgrund von Art. 3 Bst. k des Kundmachungsgesetzes vom 17. April 1985, LGBl. 1985 Nr. 41, in der Fassung des Gesetzes vom 22. März 1995, LGBl. 1995 Nr. 101, macht die Regierung im Anhang den Beschluss Nr. 62/2014 des Gemeinsamen EWR-Ausschusses kund.
+
+Der vollständige Wortlaut der EWR-Rechtsvorschriften, auf die im Beschluss Nr. 62/2014 Bezug genommen wird, wird in der EWR-Rechtssammlung kundgemacht. Die EWR-Rechtssammlung steht in der Regierungskanzlei zu Amtsstunden sowie in der Landesbibliothek zur Einsichtnahme zur Verfügung.
+
+Fürstliche Regierung: gez. Adrian Hasler Fürstlicher Regierungschef
+
+## Anhang
+
+Beschluss des Gemeinsamen EWR-Ausschusses Nr. 62/2014
+
+vom 30. April 2014
+
+zur Änderung von Anhang XX (Umweltschutz) des EWR-Abkommens
+
+Der Gemeinsame EWR-Ausschuss -
+
+gestützt auf das Abkommen über den Europäischen Wirtschaftsraum (im Folgenden "EWR-Abkommen"), insbesondere auf Art. 98,
+
+in Erwägung nachstehender Gründe:
+
+- 1. Die Verordnung (EU) Nr. 421/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Änderung der Richtlinie 2003/87/EG über ein System für den Handel mit Treibhausgasemissionszertifikaten in der Gemeinschaft zur Umsetzung bis 2020 eines internationalen Übereinkommens über die Anwendung eines einheitlichen globalen marktbasierten Mechanismus auf Emissionen des internationalen Luftverkehrs ist in das EWR-Abkommen aufzunehmen.
+
+- 2. Anhang XX des EWR-Abkommens sollte daher entsprechend geändert werden -
+
+hat folgenden Beschluss erlassen:
