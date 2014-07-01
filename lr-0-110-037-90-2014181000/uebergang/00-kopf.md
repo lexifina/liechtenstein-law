@@ -1,0 +1,5 @@
+## Erklärung der EFTA-Staaten zu Beschluss Nr. 164/2013 vom 8. Oktober 2013 zur Aufnahme von Beschluss 2010/53/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 über Qualitäts- und Sicherheitsstandards für zur Transplantation bestimmte menschliche Organe in das EWR-Abkommen
+
+"Die Richtlinie 2010/53/EU des Europäischen Parlaments und des Rates vom 7. Juli 2010 über Qualitäts- und Sicherheitsstandards für zur Transplantation bestimmte menschliche Organe, die auf Art. 168 des Vertrags über die Arbeitsweise der Europäischen Union beruht, ist ein wesentliches Element der europäischen Gesundheitsvorschriften und entspricht der Gesundheitspolitik der EFTA-Staaten. Das EWR-Abkommen bietet keine Rechtsgrundlage für das öffentliche Gesundheitswesen, die derjenigen des Art. 168 des Vertrags über die Arbeitsweise der Europäischen Union entspricht. Die Aufnahme dieser Richtlinie berührt daher nicht den Geltungsbereich des EWR-Abkommens.
+
+Diese Erklärung lässt Art. 118 des EWR-Abkommens unberührt."
