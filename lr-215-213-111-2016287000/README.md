@@ -1,0 +1,25 @@
+# Verordnung vom 30. August 2016 über die Miete und Pacht von Wohn- und Geschäftsräumen (VMWG)
+
+LR 215.213.111 · LGBl. 2016.287 · <https://www.gesetze.li/konso/2016287000>
+
+One current consolidated version is recorded, effective 2017-01-01. It is labelled as the oldest version available; earlier history is not included in this breadth append.
+
+The official chronology names the following source law or laws for this version:
+
+- LGBl. 2016 Nr. 287, issued 2016-09-01: Verordnung vom 30. August 2016 über die Miete und Pacht von Wohn- und Geschäftsräumen...
+
+Text layout: provisions. Files:
+
+- `ingress.md`
+- `art-001.md`
+- `art-002.md`
+- `art-003.md`
+- `art-004.md`
+- `art-005.md`
+- `art-006.md`
+- `art-007.md`
+- `art-008.md`
+- `art-009.md`
+- `art-010.md`
+- `art-011.md`
+- `schluss.md`
