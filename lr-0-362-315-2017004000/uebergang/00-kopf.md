@@ -1,0 +1,9 @@
+## Formel zur Berechnung der finanziellen Beiträge für die Jahre 2019 und 2020 und Angaben zur Zahlung
+
+Der Finanzbeitrag Liechtensteins zum ISF-Grenzen und Visa gemäss Art. 5 Abs. 7 Unterabs. 2 und 3 der Verordnung (EU) Nr. 515/2014 wird für die Jahre 2019 und 2020 wie folgt berechnet:
+
+Für jedes einzelne Jahr im Zeitraum 2013 bis 2017 wird das Bruttoinlandsprodukt (BIP) Liechtensteins (nach den am 31. März 2019 vorliegenden endgültigen Zahlen) durch das Gesamt-BIP aller am ISF-Grenzen und Visa beteiligten Staaten im jeweiligen Jahr geteilt. Der Durchschnitt der fünf Prozentsätze für die Jahre 2013 bis 2017 wird auf die Summe der jährlichen Mittelbindungen für den ISF-Grenzen und Visa für die Jahre 2014 bis 2019 und die jährliche Verpflichtungsermächtigung für den ISF-Grenzen und Visa für das Jahr 2020, die in dem von der Kommission angenommenen Entwurf des Gesamthaushaltsplans der Europäischen Union für das Haushaltsjahr 2020 enthalten ist, angewendet, um den von Liechtenstein über den gesamten Durchführungszeitraum des ISF-Grenzen und Visa zu zahlenden Gesamtbetrag zu ermitteln. Von diesem Betrag werden die von Liechtenstein gemäss Art. 10 Abs. 1 dieses Abkommens tatsächlich geleisteten jährlichen Zahlungen abgezogen, um den Gesamtbetrag der liechtensteinischen Beiträge für die Jahre 2019 und 2020 zu ermitteln. Die Hälfte dieses Betrags wird im Jahr 2019 und die andere Hälfte im Jahr 2020 gezahlt.
+
+Der Finanzbeitrag wird in Euro geleistet.
+
+Liechtenstein leistet seinen jeweiligen Finanzbeitrag spätestens 45 Tage nach Erhalt der Belastungsanzeige. Bei Zahlungsverzug werden ab dem Fälligkeitstag Verzugszinsen für den ausstehenden Betrag berechnet. Als Zinssatz wird der von der Europäischen Zentralbank für ihre Hauptrefinanzierungsgeschäfte zugrunde gelegte, am ersten Kalendertag des Fälligkeitsmonats geltende, im Amtsblatt der Europäischen Union, Reihe C, veröffentlichte Zinssatz zuzüglich 3,5 Prozentpunkten angewendet.
