@@ -1,0 +1,3 @@
+# Art. 5a Gebühren für Nachkontrollen
+
+Nachkontrollen, deren Durchführung aufgrund beanstandeter Befunde erforderlich ist, werden mit 140 Franken pro Stunde, mindestens jedoch mit 70 Franken verrechnet.
