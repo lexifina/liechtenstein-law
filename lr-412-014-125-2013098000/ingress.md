@@ -1,0 +1,7 @@
+Verordnung
+
+vom 19. Februar 2013
+
+über die berufliche Grundbildung Forstpraktikerin/Forstpraktiker mit Berufsattest (BA)
+
+Aufgrund von Art. 26 des Berufsbildungsgesetzes (BBG) vom 13. März 2008, LGBl. 2008 Nr. 103, verordnet die Regierung:
