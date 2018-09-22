@@ -1,0 +1,13 @@
+# Kundmachung vom 18. Mai 2021 der Beschlüsse Nr. 174/2018, 180/2018 bis 189/2018, 191/2018, 193/2018, 194/2018 und 196/2018 bis 206/2018 des Gemeinsamen EWR-Ausschusses
+
+LR 0.110.040.71 · LGBl. 2021.172 · <https://www.gesetze.li/konso/2021172000>
+
+One current consolidated version is recorded, effective 2018-09-22. It is labelled as the oldest version available; earlier history is not included in this breadth append.
+
+The official chronology names the following source law or laws for this version:
+
+- LGBl. 2021 Nr. 172, issued 2021-05-21: Kundmachung vom 18. Mai 2021 der Beschlüsse Nr. 174/2018, 180/2018 bis 189/2018, 191/...
+
+Text layout: single-file. Files:
+
+- `text.md`
