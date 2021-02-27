@@ -1,0 +1,5 @@
+# Art. 5b Elektronische Kommunikation
+
+1) Die für die elektronische Kommunikation zu verwendenden Instrumente, Vorrichtungen oder ihre technischen Merkmale müssen nichtdiskriminierend, allgemein verfügbar und zugänglich sowie mit den allgemein verbreiteten Erzeugnissen der Informations- und Kommunikationstechnologie (IKT) kompatibel sein.
+
+2) Die Auftraggeber haben dafür Sorge zu tragen, dass den Bewerbern und Offertstellern zusätzlich zu den Anforderungen des Anhangs V der Richtlinie 2014/25/EU die Informationen über die Spezifikationen der Instrumente und Vorrichtungen, die für den elektronischen Eingang der Bewerbungen und Offerten erforderlich sind, einschliesslich der Verschlüsselung und Zeitstempelung, zugänglich sind. Sie legen dafür das erforderliche Sicherheitsniveau fest, welches im Verhältnis zu den verbundenen Risiken steht. Die elektronisch übermittelten Bewerbungen und Offerten sind mit einer fortgeschrittenen elektronischen Signatur nach der Verordnung (EU) Nr. 910/2014 über elektronische Identifizierung und Vertrauensdienste für elektronische Transaktionen im Binnenmarkt zu versehen.
