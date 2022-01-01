@@ -1,0 +1,5 @@
+# Art. 4b Diskriminierung durch Belästigung und sexuelle Belästigung
+
+1) Belästigung und sexuelle Belästigung sowie die Anweisung hierzu gelten als Diskriminierung aufgrund des Geschlechts.
+
+2) Als Diskriminierung gilt auch die nachteilige Behandlung aufgrund der Zurückweisung oder Duldung einer Belästigung oder sexuellen Belästigung.
