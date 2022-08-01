@@ -1,0 +1,9 @@
+# Art. 170a Austauschpfändung
+
+1) Der Gerichtsvollzieher kann eine unpfändbare Sache vorläufig pfänden, wenn der Austausch durch ein Ersatzstück nach Lage der Verhältnisse angemessen ist, insbesondere der Verwertungserlös den Wert eines Ersatzstücks, das dem geschützten Verwendungszweck genügt, erheblich übersteigen wird.
+
+2) Der betreibende Gläubiger ist von der vorläufigen Pfändung unverzüglich zu verständigen. Der Gerichtsvollzieher hat ihm auch den Wert eines Ersatzstücks oder den zur Beschaffung eines solchen Ersatzstücks erforderlichen Geldbetrag mitzuteilen.
+
+3) Erklärt sich der betreibende Gläubiger nicht binnen 14 Tagen ab Zustellung der Verständigung, wenn er aber bei der Pfändung anwesend ist, nicht bei dieser bereit, dem Verpflichteten ein solches Ersatzstück oder den zur Ersatzbeschaffung erforderlichen Betrag zur Verfügung zu stellen, oder überlässt er zu dem vom Gerichtsvollzieher festgelegten Termin dem Verpflichteten nicht das Ersatzstück oder den zur Ersatzbeschaffung erforderlichen Betrag, so erlischt das Pfandrecht.
+
+4) Hat der betreibende Gläubiger innerhalb der Frist des Abs. 3 eine Vollzugsbeschwerde gegen den vom Gerichtsvollzieher mitgeteilten Wert des Ersatzstücks oder den zur Beschaffung eines solchen Ersatzstücks erforderlichen Geldbetrag erhoben, so wird diese Frist bis zum Eintritt der Rechtskraft der Entscheidung über die Vollzugsbeschwerde unterbrochen.
