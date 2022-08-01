@@ -1,0 +1,3 @@
+# Art. 37b Unabhängigkeit der Eisenbahnverkehrsunternehmen
+
+Eisenbahnverkehrsunternehmen, die direkt oder indirekt im Eigentum von Gebietskörperschaften eines EWR-Mitgliedstaates oder der Schweiz stehen oder von einer solchen kontrolliert werden, müssen hinsichtlich der Geschäftsführung, Verwaltung und internen Kontrolle der Verwaltungs-, Wirtschafts- und Rechnungsführungsfragen eine von der Gebietskörperschaft unabhängige Stellung haben, aufgrund deren sie insbesondere über ein Vermögen, einen Haushaltsplan und eine Rechnungsführung verfügen, die vom Vermögen, dem Haushaltsplan und der Rechnungsführung der Gebietskörperschaft getrennt sind.

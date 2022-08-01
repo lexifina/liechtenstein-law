@@ -1,0 +1,9 @@
+# Art. 37d Trennungsmassnahmen
+
+1) Vertikal integrierte Eisenbahnunternehmen haben für die Funktion des Eisenbahninfrastrukturunternehmens einen eigenständigen Unternehmensbereich einzurichten, der von Eisenbahnverkehrsunternehmen und anderen rechtlichen Einheiten des Unternehmens getrennt ist. Sie sind ferner so zu organisieren, dass keine seiner rechtlichen Einheiten einen bestimmenden Einfluss auf die Entscheidungen des Eisenbahninfrastrukturunternehmens hinsichtlich wesentlicher Funktionen (Art. 37f Abs. 1) ausübt.
+
+2) Vertikal integrierte Eisenbahnunternehmen haben für den Betrieb der Eisenbahninfrastruktur und die Erbringung von Verkehrsleistungen im Schienengüter- sowie Schienenpersonenverkehr getrennte Gewinn- und Verlustrechnungen sowie Bilanzen aufzustellen und zu veröffentlichen. Öffentliche Gelder, die einem dieser beiden Tätigkeitsbereiche zufliessen, dürfen nicht auf den anderen übertragen werden.
+
+3) In vertikal integrierten Eisenbahnunternehmen dürfen die Mitglieder des Leitungsorgans eines Eisenbahninfrastrukturunternehmens und Personen, die Entscheidungen über wesentliche Funktionen (Art. 37f Abs. 1) treffen, keine leistungsbezogenen Vergütungen von einer anderen Einheit des vertikal integrierten Eisenbahnunternehmens erhalten. Dies gilt ebenso für Bonuszahlungen, die im Wesentlichen mit der finanziellen Leistungsfähigkeit einzelner Eisenbahnverkehrsunternehmen verknüpft sind.
+
+4) Verfügen verschiedene Einheiten in einem vertikal integrierten Eisenbahnunternehmen über gemeinsame Informationssysteme, so ist der Zugang zu sensiblen Informationen, die wesentliche Funktionen (Art. 37f Abs. 1) betreffen, auf befugtes Personal des Eisenbahninfrastrukturunternehmens zu beschränken; solche Informationen dürfen vom Eisenbahninfrastrukturunternehmen nicht an andere Einheiten des vertikal integrierten Eisenbahnunternehmens weitergegeben werden.
