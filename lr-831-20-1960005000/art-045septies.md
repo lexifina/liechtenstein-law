@@ -1,0 +1,3 @@
+# Art. 45septies Abgrenzung des erstmalig vereinbarten Arbeitsverhältnisses vom aufrechten Arbeitsverhältnis
+
+Die Regierung trifft durch Verordnung Regelungen zur Abgrenzung eines erstmalig vereinbarten Arbeitsverhältnisses im Sinne von Art. 45quater und 45quinquies von einem aufrechten Arbeitsverhältnis im Sinne von Art. 45sexies. Sie kann dabei insbesondere Voraussetzungen vorsehen, bei denen Arbeitsversuche im Sinne von Art. 45quater und Lohnzuschuss im Sinne von Art. 45quinquies auch dann möglich sind, wenn die Arbeitstätigkeit wegen des Eintritts einer Invalidität unterbrochen wird und später eine Wiedereingliederung in ein Arbeitsverhältnis bei demselben Unternehmen angestrebt wird.
