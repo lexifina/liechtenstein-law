@@ -1,0 +1,3 @@
+# Art. 35ter Schwangerschaft, Mutterschaft, Krankheit oder Unfall während des Taggeldbezuges
+
+Die versicherte Person, die wegen Schwangerschaft, Mutterschaft, Krankheit oder Unfall nicht in der Lage ist, sich weiterhin der Durchführung von Eingliederungsmassnahmen, Untersuchungen oder Abklärungen zu unterziehen, hat während dieser Zeit für weitere 30 Tage pro Anlassfall Anspruch auf Taggeld, sofern nicht eine andere Versicherung eine gleichartige Leistung auszurichten hat. Wenn jedoch der Anspruch voraussichtlich auch ohne den Eintritt einer Schwangerschaft, einer Krankheit oder eines Unfalls erloschen wäre, so erlischt der Anspruch auf Taggeld vor Ablauf dieser 30 Tage auf diesen Zeitpunkt hin.
