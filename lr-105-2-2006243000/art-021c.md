@@ -1,0 +1,7 @@
+# Art. 21c Erklärung zur Barrierefreiheit
+
+1) Öffentliche Stellen haben eine detaillierte, umfassende und klare Erklärung zur Barrierefreiheit ihrer Websites und mobilen Anwendungen in einem barrierefrei zugänglichen Format zu veröffentlichen und aktuell zu halten. Dabei können auch über die nach Art. 7 der Richtlinie (EU) 2016/2102 obligatorischen inhaltlichen Anforderungen hinausgehende fakultative Inhalte in die Erklärung aufgenommen werden.
+
+2) Die Erklärung ist auf der entsprechenden Website zu veröffentlichen und muss jedenfalls über die Startseite dieser Website erreichbar sein. Bei mobilen Anwendungen hat die Erklärung zur Barrierefreiheit auf der Website der öffentlichen Stelle, die die betreffende mobile Anwendung entwickelt oder deren Entwicklung beauftragt hat, oder zusammen mit anderen Informationen beim Herunterladen der Anwendung verfügbar zu sein.
+
+3) Öffentliche Stellen haben jede Mitteilung von Nutzern ihrer Website oder mobilen Anwendung zu Mängeln bei der Einhaltung der Barrierefreiheitsanforderungen zu prüfen, erforderlichenfalls Massnahmen zur Beseitigung dieser Mängel zu ergreifen und dem jeweiligen Nutzer das Ergebnis dieser Prüfung sowie die getroffenen oder beabsichtigten Massnahmen binnen zwei Monaten bekannt zu geben. Anfragen zu Inhalten von Websites und mobilen Anwendungen, die nach Art. 21a Abs. 3 von der Verpflichtung zur Erfüllung der Barrierefreiheitsanforderungen ausgenommen und nicht barrierefrei zugänglich sind, sind binnen zwei Monaten zu beantworten.
