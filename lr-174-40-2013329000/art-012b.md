@@ -1,0 +1,13 @@
+# Art. 12b Verwendung von Überschüssen
+
+1) Die Vorsorgeeinrichtung hat beim geschlossenen Vorsorgewerk Überschüsse so einzusetzen, dass eine eventuelle Unterdeckung ausgeglichen wird. Liegt keine Unterdeckung vor, wird mit den Überschüssen eine Wertschwankungsreserve geäufnet, bis der Deckungsgrad gemäss revidiertem Jahresabschluss 115 % beträgt.
+
+2) Die Verwendung von Überschüssen für einen allfälligen Teuerungsausgleich ist nur zulässig, wenn der Deckungsgrad nach Abs. 1 erreicht wird. Der Teuerungsausgleich darf in Prozentpunkten maximal dem kumulierten Teuerungsausgleich für Rentner im offenen Vorsorgewerk für denselben Zeitraum entsprechen.
+
+3) Übersteigt der Deckungsgrad gemäss revidiertem Jahresabschluss in zwei aufeinanderfolgenden Jahren per 31. Dezember 140 %, so erfolgt jeweils eine Rückvergütung an die angeschlossenen Arbeitgeber in der Höhe der geleisteten Ausgleichsbeiträge nach Art. 14a Abs. 1 Bst. c. Rückvergütungen werden solange erstattet, bis der Deckungsgrad 125 % erreicht. Die Summe der Rückvergütungen entspricht maximal der Summe der geleisteten Ausgleichsbeiträge. Die Ausgleichsbeiträge werden nicht verzinst. Die Rückvergütung erfolgt im gleichen Verhältnis, wie die Ausgleichsbeiträge geleistet wurden.
+
+4) Wurden die Ausgleichsbeiträge nach Abs. 3 vollständig rückvergütet und übersteigt der Deckungsgrad gemäss revidiertem Jahresabschluss in zwei aufeinanderfolgenden Jahren per 31. Dezember 140 %, so erfolgt jeweils eine Rückvergütung an die angeschlossenen Arbeitgeber in der Höhe der geleisteten Garantiebeiträge nach Art. 12a. Rückvergütungen werden solange erstattet, bis der Deckungsgrad 125 % erreicht. Die Summe der Rückvergütungen entspricht maximal der Summe der geleisteten Garantiebeiträge. Die Garantiebeiträge werden nicht verzinst. Die Rückvergütung erfolgt im gleichen Verhältnis, wie die Garantiebeiträge geleistet wurden.
+
+5) Wurden die Ausgleichs- und Garantiebeiträge nach Abs. 3 und 4 vollständig rückvergütet und übersteigt der Deckungsgrad nach revidiertem Jahresabschluss in zwei aufeinanderfolgenden Jahren per 31. Dezember 140 %, so erfolgt eine Verteilung der verbleibenden Überschüsse an die angeschlossenen Arbeitgeber und das offene Vorsorgewerk. Dabei erhalten die angeschlossenen Arbeitgeber 55 %, das offene Vorsorgewerk 45 % des zu verteilenden Betrages. Der Deckungsgrad darf nach der Verteilung 125 % nicht unterschreiten. Die Verteilung an die angeschlossenen Arbeitgeber erfolgt im gleichen Verhältnis, wie die Ausgleichs- und Garantiebeiträge geleistet wurden.
+
+6) Besteht ein angeschlossener Arbeitgeber im Zeitpunkt einer Rückvergütung bzw. Verteilung nach Abs. 3 bis 5 nicht mehr, so fällt sein Anteil vorbehaltlich besonderer Regelungen an das Land.
