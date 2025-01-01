@@ -1,0 +1,3 @@
+# Art. 21a Änderung der Einkommens- und Vermögensverhältnisse
+
+Macht die Antrag stellende Person glaubhaft oder hat die Stipendienstelle Grund zur Annahme, dass sich im Ausbildungsjahr die Erwerbs- und Vermögensverhältnisse gegenüber der nach Art. 21 Abs. 5 massgeblichen Steuerveranlagung um mindestens 30 % verändern, so wird die Eigenleistung aufgrund der von der Antrag stellenden Person vorgelegten Nachweise oder der der Stipendienstelle vorliegenden Informationen ermittelt und eine provisorische Ausbildungsbeihilfe in Form eines Darlehens ausgerichtet. Mit Vorliegen der rechtskräftigen Steuerveranlagung für das Ausbildungsjahr wird die definitive Ausbildungsbeihilfe der Antrag stellenden Person unter Berücksichtigung des bereits ausgerichteten Darlehens festgelegt.
