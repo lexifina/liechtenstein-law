@@ -1,0 +1,21 @@
+# Art. 114 (bisheriger Art. 109) Antrag auf Wiederaufnahme des Verfahrens
+
+1) Anträge einer Partei auf Wiederaufnahme eines Verfahrens des früheren Gerichtshofs werden vom Präsidenten des Gerichtshofs je nach Fall nach Art. 51 oder 52 einer Sektion zugewiesen.
+
+2) Ungeachtet des Art. 80 Abs. 3 bildet der Präsident der betroffenen Sektion für die Behandlung des Antrags eine neue Kammer.
+
+3) Dieser Kammer gehören von Amts wegen folgende Mitglieder an:
+
+- a) der Sektionspräsident;
+
+  - sowie, unabhängig davon, ob sie der betroffenen Sektion angehören,
+
+- b) der für die betroffene Vertragspartei gewählte Richter oder, wenn dieser verhindert ist, ein Richter, der nach Art. 29 benannt wird;
+
+- c) die Mitglieder des Gerichtshofs, die der ursprünglichen Kammer des früheren Gerichtshofs, die das Urteil gefällt hat, angehört haben.
+
+4)
+
+- a) Der Sektionspräsident bestimmt die übrigen Mitglieder der Kammer aus dem Kreis der Mitglieder der betroffenen Sektion durch das Los.
+
+- b) Die Mitglieder der Sektion, die nicht auf diese Weise bestimmt wurden, tagen als Ersatzrichter.

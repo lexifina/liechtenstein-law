@@ -1,0 +1,7 @@
+# Art. 104 (bisheriger Art. 95)
+
+Nach Bewilligung der Prozesskostenhilfe bestimmt der Kanzler:
+
+- a) die Höhe der Honorare entsprechend den geltenden Tarifen;
+
+- b) den Betrag der zu zahlenden Kosten.

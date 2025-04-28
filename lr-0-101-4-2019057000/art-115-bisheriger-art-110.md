@@ -1,0 +1,7 @@
+## Titel IV
+
+## Schlussbestimmungen
+
+# Art. 115 (bisheriger Art. 110) Aussetzung der Anwendung von Bestimmungen
+
+Die Anwendung von Bestimmungen, welche die interne Arbeitsweise des Gerichtshofs betreffen, kann auf Vorschlag eines Richters sofort ausgesetzt werden, vorausgesetzt, dass die betroffene Kammer den Vorschlag einstimmig annimmt. Die Aussetzung ist nur für den konkreten Fall wirksam, für den sie vorgeschlagen wurde.
