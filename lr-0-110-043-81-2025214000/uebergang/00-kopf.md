@@ -1,0 +1,5 @@
+## Gemeinsame Erklärung der Vertragsparteien zum Beschluss Nr. 337/2022 zur Aufnahme der Richtlinie (EU) 2018/1808 in das Abkommen
+
+Die Richtlinie (EU) 2018/1808 enthält Bestimmungen mit Verweisen auf die Richtlinie (EU) 2017/541 des Europäischen Parlaments und des Rates, auf die Richtlinie 2011/93/EU des Europäischen Parlaments und des Rates und auf den Rahmenbeschluss 2008/913/JI, die gemäss Titel V AEUV erlassen wurden. Es sei darauf hingewiesen, dass die Aufnahme von Rechtsakten mit solchen Bestimmungen in das EWR-Abkommen nicht bedeutet, dass die nach Titel V AEUV erlassenen Rechtsvorschriften der Europäischen Union in den Geltungsbereich des EWR-Abkommens fallen.
+
+Hinsichtlich der Bezugnahmen auf Art. 5 der Richtlinie (EU) 2017/541, Art. 5 Abs. 4 der Richtlinie 2011/93/EU und Art. 1 des Rahmenbeschlusses 2008/913/JI erkennen die Vertragsparteien vor dem Hintergrund der traditionellen gemeinsamen Werte und der europäischen Identität an, dass die entsprechenden nationalen Rechtsvorschriften der EFTA-Staaten funktional gleichwertig angewandt werden.
