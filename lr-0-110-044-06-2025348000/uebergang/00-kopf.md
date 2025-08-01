@@ -1,0 +1,3 @@
+## Gemeinsame Erklärung der Vertragsparteien zum Beschluss Nr. 31/2025 zur Aufnahme der Richtlinie (EU) 2019/520 des Europäischen Parlaments und des Rates in das Abkommen
+
+Die Vertragsparteien erkennen an, dass in Anbetracht der besonderen Situation Liechtensteins, seines sehr kleinen Strassennetzes sowie der Tatsache, dass Liechtenstein am 1. Januar 2001 eine Schwerverkehrsabgabe eingeführt hat, die auf einem bilateralen Abkommen zwischen Liechtenstein und der Schweiz beruht und die aufgrund der Zollunion mit der Schweiz an den gemeinsamen Grenzübergangsstellen erhoben wird, Fragen im Zusammenhang mit der Interoperabilität elektronischer Mautsysteme in Liechtenstein in enger Zusammenarbeit mit der Schweiz erörtert werden.
