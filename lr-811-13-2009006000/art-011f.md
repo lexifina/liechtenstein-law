@@ -1,0 +1,5 @@
+# Art. 11f f) Streichung aus der Liste der Tierärztegesellschaften und Auflösung der Tierärztegesellschaft
+
+1) Stehen die Änderungen der im Eintragungsverfahren vorzulegenden Dokumente oder der Zusammensetzung der Gesellschafter (Art. 11e) im Widerspruch zu den Erfordernissen dieses Gesetzes oder sind die Voraussetzungen für die Eintragung der Gesellschaft in die Liste der Tierärztegesellschaften nicht mehr gegeben, ist die Gesellschaft nach ihrer vorherigen Anhörung aus der Liste der Tierärztegesellschaften zu streichen, wenn sie den gesetzlichen Zustand nicht innerhalb von drei Monaten wieder herstellt.
+
+2) Die Streichung aus der Liste der Tierärztegesellschaften bewirkt die Auflösung der Gesellschaft. Das Amt für Lebensmittelkontrolle und Veterinärwesen teilt dem Amt für Justiz unverzüglich mit, wenn die Streichung aus der Liste der Tierärztegesellschaften rechtskräftig ist. Das Amt für Justiz trägt die Auflösung der Tierärztegesellschaft im Handelsregister ein und bestellt einen Liquidator nach Massgabe von Art. 133 ff. PGR.
