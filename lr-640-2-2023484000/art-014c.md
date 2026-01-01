@@ -1,0 +1,5 @@
+# Art. 14c Kontrolle
+
+1) Zur Überprüfung der Erfüllung der Pflichten der in Liechtenstein gelegenen berichtenden Geschäftseinheiten kann die Steuerverwaltung Kontrollen durchführen.
+
+2) In Liechtenstein gelegene berichtende Geschäftseinheiten haben der Steuerverwaltung unbeschränkten Zugang zu allen Informationen zu gewähren, die im Zusammenhang mit der Erfüllung ihrer Verpflichtungen aus dem anwendbaren Abkommen und diesem Gesetz relevant sind und die diese zur Durchführung der Kontrollen für notwendig erachten.
