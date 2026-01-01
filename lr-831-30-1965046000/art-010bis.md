@@ -1,0 +1,3 @@
+# Art. 10bis Sprachliche Gleichbehandlung
+
+Soweit nicht ausdrücklich etwas anderes bestimmt ist, sind unter den in diesem Gesetz verwendeten Personen- und Funktionsbezeichnungen Angehörige des weiblichen und männlichen Geschlechts zu verstehen.
