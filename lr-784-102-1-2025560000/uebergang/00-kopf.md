@@ -1,0 +1,1 @@
+## Liechtensteinischer Frequenzzuweisungsplan
