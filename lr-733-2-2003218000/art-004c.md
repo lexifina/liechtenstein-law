@@ -1,0 +1,3 @@
+# Art. 4c Endkundenmärkte
+
+Um das Entstehen gut funktionierender und transparenter Endkundenmärkte zu erleichtern, legen Erdgasunternehmen die Aufgaben und Zuständigkeiten der Fernleitungsnetzbetreiber, Verteilernetzbetreiber, Versorgungsunternehmen und Kunden sowie gegebenenfalls anderer Marktteilnehmer hinsichtlich der vertraglichen Vereinbarungen, der Verpflichtungen gegenüber den Kunden, der Regeln für Datenaustausch und Abrechnung, des Eigentums an den Daten und der Zuständigkeit für die Verbrauchserfassung gemeinsam fest und veröffentlichen sie. Diese Regeln unterliegen der Überprüfung durch die Regulierungsbehörde.
