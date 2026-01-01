@@ -1,0 +1,5 @@
+## Datenschutz
+
+# Art. 25a a) Datenverarbeitung
+
+Die Steuerverwaltung darf personenbezogene Daten, einschliesslich personenbezogener Daten über strafrechtliche Verurteilungen und Straftaten, verarbeiten oder verarbeiten lassen, soweit dies zur Erfüllung ihrer Aufgaben nach diesem Gesetz erforderlich ist. Sie kann zu diesem Zweck ein Informationssystem betreiben.
