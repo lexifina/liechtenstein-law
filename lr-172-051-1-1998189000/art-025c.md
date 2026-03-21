@@ -1,0 +1,17 @@
+# Art. 25c Wettbewerblicher Dialog
+
+1) Der Auftraggeber fordert beim wettbewerblichen Dialog die nach Massgabe von Eignungskriterien ausgewählten Bewerber gleichzeitig schriftlich auf, am Dialog teilzunehmen. Er kann die Zahl an Bewerbern, die er zum wettbewerblichen Dialog einladen wird, begrenzen, sofern geeignete Bewerber in ausreichender Zahl zur Verfügung stehen.
+
+2) Liegt die Zahl an Bewerbern, die die Eignungskriterien und Mindestanforderungen erfüllen, unter der vorgesehenen Mindestzahl, kann der Auftraggeber das Verfahren fortführen, indem er die Bewerber einlädt, die über die geforderte Leistungsfähigkeit verfügen. Andere Unternehmen, die sich nicht um die Teilnahme beworben haben, oder Bewerber, die nicht über die geforderte Leistungsfähigkeit verfügen, dürfen nicht zum selben Verfahren zugelassen werden.
+
+3) Der Auftraggeber eröffnet mit den ausgewählten Bewerbern einen Dialog, um zu ermitteln und festzulegen, wie seine Bedürfnisse am Besten erfüllt werden können. Dabei kann er mit den ausgewählten Bewerbern alle Aspekte des Auftrags erörtern.
+
+4) Der Auftraggeber kann vorsehen, dass der wettbewerbliche Dialog in verschiedenen aufeinander folgenden Phasen abgewickelt wird, um so die Zahl der Offerten, über die verhandelt wird, anhand der in der Bekanntmachung oder in der Leistungsbeschreibung angegebenen Zuschlagskriterien zu verringern. In der Bekanntmachung oder in der Leistungsbeschreibung ist anzugeben, ob diese Möglichkeit in Anspruch genommen wird. In der Schlussphase müssen noch so viele Offerten vorliegen, dass ein echter Wettbewerb gewährleistet ist, sofern eine ausreichende Anzahl von geeigneten Bewerbern vorliegt.
+
+5) Der Auftraggeber setzt den Dialog fort, bis er die Lösung bzw. die Lösungen ermitteln kann, mit denen seine Bedürfnisse erfüllt werden können.
+
+6) Der Auftraggeber erklärt den Dialog für abgeschlossen und fordert gleichzeitig die Bewerber auf, auf der Grundlage der eingereichten und in der Dialogphase näher ausgeführten Lösungen ihre endgültigen Offerten einzureichen. Diese Offerten müssen alle zur Ausführung des Projekts erforderlichen Einzelheiten enthalten. Auf Verlangen des Auftraggebers können Klarstellungen, Präzisierungen und Ergänzungen gemacht werden, jedoch dürfen diese keine grundlegende Änderung der Offerte oder des öffentlichen Auftrags, einschliesslich der in der Bekanntmachung oder in der Leistungsbeschreibung festgelegten Bedürfnisse und Anforderungen, zur Folge haben, wenn Abweichungen davon den Wettbewerb verzerren oder diskriminierend sind.
+
+7) Der Auftraggeber beurteilt die eingereichten Offerten anhand der in der Bekanntmachung oder in der Leistungsbeschreibung festgelegten Zuschlagskriterien und wählt die Offerte mit dem besten Preis-Leistungsverhältnis aus. Auf Verlangen des Auftraggebers können mit dem Offertsteller Verhandlungen geführt werden, um die in der Offerte enthaltenen finanziellen Zusagen oder andere Bedingungen zu bestätigen, indem die Auftragsbedingungen abschliessend festgelegt werden, sofern dies nicht dazu führt, dass wesentliche Bestandteile der Offerte oder des öffentlichen Auftrags, einschliesslich der in der Bekanntmachung oder in der Leistungsbeschreibung festgelegten Bedürfnisse und Anforderungen, grundlegend geändert werden, und sofern dies nicht die Gefahr von Wettbewerbsverzerrungen oder Diskriminierungen mit sich bringt.
+
+8) Der Auftraggeber kann Prämien oder Zahlungen an die Teilnehmer des Dialogs vorsehen.

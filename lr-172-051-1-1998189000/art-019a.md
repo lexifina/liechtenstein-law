@@ -1,0 +1,7 @@
+# Art. 19a Übermittlung der Ausschreibungsunterlagen
+
+1) Unterhalb der Schwellenwerte bestimmt der Auftraggeber die Art der Zustellung der Ausschreibungsunterlagen.
+
+2) Oberhalb der Schwellenwerte sind die Ausschreibungsunterlagen ab dem Tag der Veröffentlichung der Bekanntmachung oder der Aufforderung zur Offertstellung unentgeltlich, uneingeschränkt und vollständig direkt mittels elektronischer Mittel zugänglich zu machen. In der Bekanntmachung oder der Aufforderung zur Offertstellung ist die Internet-Adresse anzugeben, unter der diese Unterlagen abrufbar sind.
+
+3) Ist ein unentgeltlicher, uneingeschränkter und vollständig direkter Zugang zu den Ausschreibungsunterlagen nach Abs. 2 aus einem der in Art. 29a Abs. 2 genannten Gründen nicht möglich, kann der Auftraggeber in der Bekanntmachung oder der Aufforderung zur Offertstellung angeben, dass die Ausschreibungsunterlagen nicht elektronisch, sondern durch andere Mittel übermittelt werden. Dasselbe gilt, wenn die Ausschreibungsunterlagen aufgrund der Vertraulichkeit der Informationen nicht unentgeltlich, uneingeschränkt und vollständig direkt mittels elektronischer Mittel zugänglich gemacht werden können.
