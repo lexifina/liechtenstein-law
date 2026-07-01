@@ -1,0 +1,3 @@
+# Art. 31b Einrede der Nichtbenutzung im Widerspruchsverfahren
+
+Ist der Widerspruch vom Inhaber einer älteren Marke erhoben worden, so hat er, wenn der Widerspruchsgegner die Einrede der Nichtbenutzung erhebt, nachzuweisen, dass die ältere Marke innerhalb der letzten fünf Jahre vor dem Anmelde- oder Prioritätstag der Marke, gegen die sich der Widerspruch richtet, nach Art. 11 benutzt worden ist, sofern zu diesem Zeitpunkt seit mindestens fünf Jahren kein Widerspruch mehr gegen sie möglich war. Beim Entscheid werden nur Waren und Dienstleistungen berücksichtigt, für welche die Benutzung nachgewiesen worden ist.

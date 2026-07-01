@@ -1,0 +1,3 @@
+# Art. 12a Einrede der Nichtbenutzung
+
+Der Markeninhaber kann die Benutzung eines Zeichens nur so weit verbieten, wie die Rechte des Inhabers nicht nach Art. 12b zum Zeitpunkt der Erhebung der Verletzungsklage für verfallen erklärt werden können. Auf Verlangen des Beklagten hat der Markeninhaber den Nachweis zu erbringen, dass die Marke innerhalb der letzten fünf Jahre vor dem Zeitpunkt der Klageerhebung im Zusammenhang mit den Waren oder Dienstleistungen, für die sie eingetragen ist und auf die sich die Klage stützt, ernsthaft benutzt worden ist oder dass berechtigte Gründe für die Nichtbenutzung vorliegen, sofern das Eintragungsverfahren zum Zeitpunkt der Klageerhebung seit mindestens fünf Jahren abgeschlossen ist.
