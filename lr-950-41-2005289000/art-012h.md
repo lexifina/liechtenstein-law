@@ -1,0 +1,9 @@
+# Art. 12h e) Gebühren
+
+Vermögensverwaltungsgesellschaften haben die für das Finanzinstrument geplante Gebührenstruktur zu prüfen, auch indem sie untersuchen, ob Folgendes gegeben ist:
+
+- a) Die Kosten und Gebühren des Finanzinstruments sind mit den Bedürfnissen, Zielen und Merkmalen des Zielmarkts vereinbar.
+
+- b) Die Gebühren untergraben nicht die Renditeerwartungen des Finanzinstruments, insbesondere wenn die Kosten oder Gebühren nahezu alle erwarteten steuerlichen Vorteile eines Finanzinstruments aufwiegen, übersteigen oder zunichte machen.
+
+- c) Die Gebührenstruktur des Finanzinstruments ist für den Zielmarkt hinreichend transparent, so dass sie Gebühren nicht verschleiert oder nicht zu komplex ist, um verstanden werden zu können.

@@ -1,0 +1,41 @@
+# Art. 12a Anreize
+
+1) Vermögensverwaltungsgesellschaften, die im Zusammenhang mit der Erbringung von Vermögensverwaltung für Kunden eine Gebühr oder Provision entrichten oder erhalten oder einen nicht-monetären Vorteil gewähren oder erhalten, stellen sicher, dass alle Bedingungen nach Art. 16 Abs. 4 Bst. b sowie Abs. 7 und 8 des Gesetzes sowie nach Abs. 2 bis 8 jederzeit erfüllt sind.
+
+2) Bei Gebühren, Provisionen oder nicht-monetären Vorteilen wird davon ausgegangen, dass sie dazu bestimmt sind, die Qualität der jeweiligen Dienstleistung für den Kunden zu verbessern, wenn folgende Bedingungen erfüllt sind:
+
+- a) Sie sind durch die Erbringung einer zusätzlichen oder höherrangigen Dienstleistung für den jeweiligen Kunden gerechtfertigt, die in angemessenem Verhältnis zum Umfang der erhaltenen Anreize steht, insbesondere:
+
+  - 1. die Erbringung nicht unabhängiger Anlageberatung und den Zugang zu einer breiten Palette geeigneter Finanzinstrumente, einschliesslich einer angemessenen Zahl von Instrumenten dritter Produktanbieter ohne enge Verbindungen zu der betreffenden Vermögensverwaltungsgesellschaft;
+
+  - 2. die Erbringung nicht unabhängiger Anlageberatung entweder in Kombination mit einem Angebot an den Kunden, mindestens einmal jährlich zu bewerten, ob die Finanzinstrumente, in die der Kunde investiert hat, weiterhin geeignet sind, oder in Kombination mit einer anderen fortlaufenden Dienstleistung mit wahrscheinlichem Wert für den Kunden, beispielsweise Beratung über die vorgeschlagene optimale Portfoliostrukturierung des Kunden;
+
+  - 3. die zu einem wettbewerbsfähigen Preis erfolgende Gewährung von Zugang zu einer breiten Palette von Finanzinstrumenten, die geeignet sind, den Bedürfnissen des Kunden zu entsprechen, darunter eine angemessene Zahl von Instrumenten dritter Produktanbieter ohne enge Verbindung zu der betreffenden Vermögensverwaltungsgesellschaft, entweder in Kombination mit der Bereitstellung von Instrumenten, die einen Mehrwert aufweisen, wie etwa objektiven Informationsinstrumenten, die dem betreffenden Kunden bei Anlageentscheidungen helfen oder ihm die Möglichkeit geben, die Palette der Finanzinstrumente, in die er investiert hat, zu beobachten, zu modellieren und anzupassen, oder in Kombination mit der Übermittlung periodischer Berichte über die Wertentwicklung sowie die Kosten und Gebühren der Finanzinstrumente; oder
+
+  - 4. wenn der Zugang zur Anlageberatung durch die Vor-Ort-Verfügbarkeit von qualifizierten Beratern ermöglicht wird, die in der Lage sind, Kunden mit Wertpapierdienstleistungen und Anlageberatung persönlich zu versorgen.
+
+- b) Sie kommen nicht unmittelbar der Empfänger-Vermögensverwaltungsgesellschaft, ihren Anteilseignern oder Beschäftigten zugute, ohne materiellen Vorteil für den betreffenden Kunden.
+
+- c) Sie sind durch die Gewährung eines fortlaufenden Vorteils für den betreffenden Kunden in Relation zu einem laufenden Anreiz gerechtfertigt.
+
+3) Gebühren, Provisionen oder nicht-monetäre Vorteile werden nicht als zulässig angesehen, wenn die Erbringung der betreffenden Dienstleistungen für den Kunden aufgrund der Gebühr, der Provision oder des nicht-monetären Vorteils befangen oder verzerrt ist.
+
+4) Vermögensverwaltungsgesellschaften müssen die in Abs. 2 und 3 dargelegten Bedingungen kontinuierlich erfüllen, solange sie die Gebühr, die Provision oder den nicht-monetären Vorteil erhalten oder entrichten bzw. gewähren.
+
+5) Vermögensverwaltungsgesellschaften müssen Nachweise bereithalten, dass jegliche von ihnen entrichteten bzw. gewährten oder erhaltenen Gebühren, Provisionen oder nicht-monetären Vorteile dazu bestimmt sind, die Qualität der jeweiligen Dienstleistung für den Kunden zu verbessern, indem sie:
+
+- a) eine interne Liste aller Gebühren, Provisionen und nicht-monetären Vorteile führen, die die Vermögensverwaltungsgesellschaft im Zusammenhang mit der Erbringung von Wertpapier- oder Nebendienstleistungen von einem Dritten erhält; und
+
+- b) aufzeichnen, wie die von der Vermögensverwaltungsgesellschaft entrichteten bzw. gewährten oder erhaltenen oder von ihr beabsichtigten Gebühren, Provisionen und nicht-monetären Vorteile die Qualität der Dienstleistungen für die betreffenden Kunden verbessern und welche Schritte unternommen wurden, um die Erfüllung der Pflicht der Vermögensverwaltungsgesellschaft, ehrlich, redlich und professionell im bestmöglichen Interesse ihrer Kunden zu handeln, nicht zu beeinträchtigen.
+
+6) In Bezug auf Zahlungen oder Vorteile, die von Dritten entgegengenommen oder Dritten gezahlt bzw. gewährt werden, müssen Vermögensverwaltungsgesellschaften gegenüber dem Kunden die folgenden Informationen offenlegen:
+
+- a) Vor der Erbringung der betreffenden Wertpapier- oder Nebendienstleistung legt die Vermögensverwaltungsgesellschaft dem Kunden Informationen über die betreffende Zahlung oder den betreffenden Vorteil nach Massgabe von Art. 16 Abs. 7 des Gesetzes offen. Geringfügige nicht-monetäre Vorteile können generisch beschrieben werden. Andere nicht-monetäre Vorteile, die die Vermögensverwaltungsgesellschaft im Zusammenhang mit der für einen Kunden erbrachten Wertpapierdienstleistung erhält oder gewährt, werden bepreist und separat offengelegt.
+
+- b) Konnte eine Vermögensverwaltungsgesellschaft den Betrag einer erhaltenen oder geleisteten Zahlung bzw. eines erhaltenen oder gewährten Vorteils nicht im Voraus feststellen und hat sie dem Kunden stattdessen die Art und Weise der Berechnung dieses Betrags offengelegt, so unterrichtet sie den Kunden nachträglich auch über den genauen Betrag der Zahlung, die sie erhalten oder geleistet hat, oder des Vorteils, den sie erhalten oder gewährt hat.
+
+- c) Solange die Vermögensverwaltungsgesellschaft im Zusammenhang mit den für die betreffenden Kunden erbrachten Wertpapierdienstleistungen (fortlaufend) Anreize erhält, unterrichtet sie ihre Kunden mindestens einmal jährlich individuell über die tatsächliche Höhe der erhaltenen oder geleisteten bzw. gewährten Zahlungen oder Vorteile. Geringfügige nicht-monetäre Vorteile können generisch beschrieben werden.
+
+7) Bei der Umsetzung der Anforderungen nach Abs. 6 tragen die Vermögensverwaltungsgesellschaften den Vorschriften über Kosten und Gebühren nach Art. 16 Abs. 1 Bst. e des Gesetzes sowie Art. 50 der Delegierten Verordnung (EU) 2017/565 Rechnung.
+
+8) Sind an einem Vertriebskanal mehrere Vermögensverwaltungsgesellschaften beteiligt, erfüllt jede Vermögensverwaltungsgesellschaft, die eine Wertpapier- oder Nebendienstleistung erbringt, ihre Offenlegungspflichten nach Abs. 6 gegenüber ihren Kunden.
