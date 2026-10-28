@@ -28,5 +28,7 @@
       "decided_here": false
     }
   },
-  "tool": "tools/stand_am.py"
+  "tool": "tools/stand_am.py",
+  "in_force_trailer": "In-force",
+  "record_to": "2026-01-01"
 }
