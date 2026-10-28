@@ -1,0 +1,726 @@
+{
+ "built": "2026-10-28",
+ "source": "https://www.gesetze.li",
+ "acts": [
+  {
+   "lgbl": "1921.015",
+   "lr": "101",
+   "slug": "lv",
+   "title": "Verfassung des Fürstentums Liechtenstein vom 5. Oktober 1921",
+   "versions": [
+    {
+     "version": 1,
+     "from": "1921-10-24",
+     "to": "1932-02-21",
+     "laws": [
+      "1921.015"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=1",
+     "sha256": "8c653dc8330310f9c8f8a538800b41c9f9ce34491410bcf20e24b8840da3443c"
+    },
+    {
+     "version": 2,
+     "from": "1932-02-22",
+     "to": "1938-02-17",
+     "laws": [
+      "1932.008"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=2",
+     "sha256": "354fa1eef0813b9a161cb3e359ed61ed7c533a10b5c2e43e83a834a89bf6029a"
+    },
+    {
+     "version": 3,
+     "from": "1938-02-18",
+     "to": "1939-01-19",
+     "laws": [
+      "1938.004"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=3",
+     "sha256": "9095d1b1fbda8c5dd6e9bbb20326a05321d629e499726fc85aaeba70ea3580be"
+    },
+    {
+     "version": 4,
+     "from": "1939-01-20",
+     "to": "1947-12-29",
+     "laws": [
+      "1939.003"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=4",
+     "sha256": "aa44e2aaa6f3ffa46ce9022cf9a6025e54560c96f7160df5dac96a539bc6d82e"
+    },
+    {
+     "version": 5,
+     "from": "1947-12-30",
+     "to": "1949-06-17",
+     "laws": [
+      "1947.055"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=5",
+     "sha256": "d2ff69216a8ddb085f5a3d0327375f0faa005fd99b5650140ad8bf5698fef751"
+    },
+    {
+     "version": 6,
+     "from": "1949-06-18",
+     "to": "1958-02-24",
+     "laws": [
+      "1949.011"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=6",
+     "sha256": "11abcf0137221360988113be6e16355b5fe18f23a3aaa7503cf285f5d1c0e95c"
+    },
+    {
+     "version": 7,
+     "from": "1958-02-25",
+     "to": "1959-04-02",
+     "laws": [
+      "1958.001"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=7",
+     "sha256": "8a9484d5ac5f5675c367597fd82ae23806964ea0f20a137ed08a5be70506b729"
+    },
+    {
+     "version": 8,
+     "from": "1959-04-03",
+     "to": "1964-02-25",
+     "laws": [
+      "1959.007"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=8",
+     "sha256": "ac741436796a02854c949decacdfa77f541b72a464d69ba96f2e527820532a77"
+    },
+    {
+     "version": 9,
+     "from": "1964-02-26",
+     "to": "1965-03-17",
+     "laws": [
+      "1964.010"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=9",
+     "sha256": "2353012a0d29b2b4fc043e3187297f3a7b5d5c558484348c5377fb43b65c393e"
+    },
+    {
+     "version": 10,
+     "from": "1965-03-18",
+     "to": "1971-04-18",
+     "laws": [
+      "1965.022"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=10",
+     "sha256": "e0c1cfe71c244c5c0c0bf6dcb5dd8fdfc8425139aa0debd239bb1b449de9d8b1"
+    },
+    {
+     "version": 11,
+     "from": "1971-04-19",
+     "to": "1972-01-31",
+     "laws": [
+      "1971.022"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=11",
+     "sha256": "ea8fe6a67769b113ae13dac97b7377c8cfd6117b53dd80655df956422bb93ab1"
+    },
+    {
+     "version": 12,
+     "from": "1972-02-01",
+     "to": "1973-11-29",
+     "laws": [
+      "1972.008"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=12",
+     "sha256": "213b3a46b1a0b78de88496906f12833b7f577ef59b6bc78c0af991e6582f1f73"
+    },
+    {
+     "version": 13,
+     "from": "1973-11-30",
+     "to": "1976-08-16",
+     "laws": [
+      "1973.049"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=13",
+     "sha256": "a7bf288779c678f86ce972bf5313c3289583d12722d9d31bea15977c89761a17"
+    },
+    {
+     "version": 14,
+     "from": "1976-08-17",
+     "to": "1982-01-31",
+     "laws": [
+      "1976.050"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=14",
+     "sha256": "38e7e1488985f9008b6aed426684ca24fb2c49952046ac7cdc66e53ab281a717"
+    },
+    {
+     "version": 15,
+     "from": "1982-02-01",
+     "to": "1984-08-17",
+     "laws": [
+      "1982.013"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=15",
+     "sha256": "fd09a177e3b4debbcb40716ba92816568d8d65b8a3872fcb59560b9e4451d11f"
+    },
+    {
+     "version": 16,
+     "from": "1984-08-18",
+     "to": "1984-08-23",
+     "laws": [
+      "1984.028"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=16",
+     "sha256": "30a5d1e97e74a5b105a5ea7491c2ee1416c7843da769b8a749d275605d26dfcb"
+    },
+    {
+     "version": 17,
+     "from": "1984-08-24",
+     "to": "1985-06-27",
+     "laws": [
+      "1984.027"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=17",
+     "sha256": "c131dd2b21cbdcd9387279180ab9e1f9ad6dcad4c5e322ffbc2800a6209673f2"
+    },
+    {
+     "version": 18,
+     "from": "1985-06-28",
+     "to": "1988-05-12",
+     "laws": [
+      "1985.037"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=18",
+     "sha256": "852414b4eef2a88fcc80f8dfd847c93e2e98ea47ff1b113f32030140ce874f64"
+    },
+    {
+     "version": 19,
+     "from": "1988-05-13",
+     "to": "1989-12-13",
+     "laws": [
+      "1988.011"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=19",
+     "sha256": "38694214562a758dedaebd15dbade30628936eaf3d7a1ea027d66ee791105308"
+    },
+    {
+     "version": 21,
+     "from": "1989-12-14",
+     "to": "1989-12-28",
+     "laws": [
+      "1989.065",
+      "1989.064"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=21",
+     "sha256": "795e8ffbe14b49b28e3a33e50e51e03438169425da438f3bd3f6ea915df9a2a5"
+    },
+    {
+     "version": 22,
+     "from": "1989-12-29",
+     "to": "1992-04-03",
+     "laws": [
+      "1989.071"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=22",
+     "sha256": "2823fd6ddf8fb3a806553096b7924a5a2b522c6ce62d5fbcaffa14ac16a4036b"
+    },
+    {
+     "version": 23,
+     "from": "1992-04-04",
+     "to": "1992-08-13",
+     "laws": [
+      "1992.027"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=23",
+     "sha256": "f018cd4269c0567ded3f48820497659bf7288bfbeed03d04ab52a2a6c8cd7190"
+    },
+    {
+     "version": 24,
+     "from": "1992-08-14",
+     "to": "1994-08-23",
+     "laws": [
+      "1992.081"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=24",
+     "sha256": "ca3de43bebc87e3423c0a1a7d86602e5acbe396f06db4a5a3595df4d7f3fe4ca"
+    },
+    {
+     "version": 26,
+     "from": "1994-08-24",
+     "to": "1995-04-30",
+     "laws": [
+      "1994.056",
+      "1994.046"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=26",
+     "sha256": "9709821cc3c02a86e8bc0d544981065f8e6748018f11b47ffe8fcfa663f0a3fd"
+    },
+    {
+     "version": 28,
+     "from": "1995-05-01",
+     "to": "1996-06-27",
+     "laws": [
+      "1995.091",
+      "1992.111"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=28",
+     "sha256": "c2418b43eaae1d12e09f3d4c2453fc7f7d8f81577b68e1470f578e65999d46f8"
+    },
+    {
+     "version": 29,
+     "from": "1996-06-28",
+     "to": "1996-08-21",
+     "laws": [
+      "1996.085"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=29",
+     "sha256": "0eb6e518fa1282378aa2de6276a71ab17f7e60c8e167f157664b78432efdff4a"
+    },
+    {
+     "version": 30,
+     "from": "1996-08-22",
+     "to": "1997-02-19",
+     "laws": [
+      "1996.121"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=30",
+     "sha256": "3417c68571948b9baa95093e9404d0f03a79762a9f79383868f3a711468e9827"
+    },
+    {
+     "version": 31,
+     "from": "1997-02-20",
+     "to": "1998-05-13",
+     "laws": [
+      "1997.046"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=31",
+     "sha256": "ccd9701859b40d0ee340135f135373255b1e413ee630db9a9dc47dcdfa1e8eec"
+    },
+    {
+     "version": 32,
+     "from": "1998-05-14",
+     "to": "2000-02-10",
+     "laws": [
+      "1998.072"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=32",
+     "sha256": "13c38f3f58d5d517ea996e9ebd90812ac70a1a34796bd5d181a535ccec7c9691"
+    },
+    {
+     "version": 33,
+     "from": "2000-02-11",
+     "to": "2003-09-14",
+     "laws": [
+      "2000.055"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=33",
+     "sha256": "54286b683cf457732e39fbbd7221351f171e636b9c4298456b3a48ba839d9385"
+    },
+    {
+     "version": 34,
+     "from": "2003-09-15",
+     "to": "2006-01-03",
+     "laws": [
+      "2003.186"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=34",
+     "sha256": "62388e3fbf291bcf9eef59e8b6dbf3d8d2f23befa0bb3e0db0aa734a81827594"
+    },
+    {
+     "version": 35,
+     "from": "2006-01-04",
+     "to": "2008-06-30",
+     "laws": [
+      "2005.267"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=35",
+     "sha256": "0d1e914446c584f4bbd65c994fab206f9f6390f87c548e06fe070a03b85bafd6"
+    },
+    {
+     "version": 37,
+     "from": "2008-07-01",
+     "to": "2008-12-31",
+     "laws": [
+      "2008.145",
+      "2007.346"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=37",
+     "sha256": "2e0324b0880b5be2e7eba0b2314e2e1885562826b8c191c394f6452099cdb23f"
+    },
+    {
+     "version": 38,
+     "from": "2009-01-01",
+     "to": "2009-08-20",
+     "laws": [
+      "2008.310"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=38",
+     "sha256": "6234ea9920824021b1380e38ddfb10c7c4c04c74b6158224aca29f1d819c8e76"
+    },
+    {
+     "version": 39,
+     "from": "2009-08-21",
+     "to": "2010-12-31",
+     "laws": [
+      "2009.227"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=39",
+     "sha256": "a7049137863fa90fbdd3ab54a96638f975030f28690c8fed6b9df28f81ebe1ee"
+    },
+    {
+     "version": 40,
+     "from": "2011-01-01",
+     "to": "2011-01-31",
+     "laws": [
+      "2010.372"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=40",
+     "sha256": "906057112b8ac53fddc2212f11292bd987719f0cd8d0f0b82d86378bd1adccac"
+    },
+    {
+     "version": 41,
+     "from": "2011-02-01",
+     "to": "2011-12-31",
+     "laws": [
+      "2011.050"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=41",
+     "sha256": "766510b8b20b6618a02def3c958d43acc1df84384afd6a3089328730d7504906"
+    },
+    {
+     "version": 42,
+     "from": "2012-01-01",
+     "to": "2019-02-28",
+     "laws": [
+      "2011.594"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=42",
+     "sha256": "628fb247e4300890c0213f1aff2bcbcf0738359d627969779119fc3a68f2b6ef"
+    },
+    {
+     "version": 43,
+     "from": "2019-03-01",
+     "to": "2021-01-31",
+     "laws": [
+      "2018.470"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=43",
+     "sha256": "d15a50506eedf56e04e3d8215dd4b0579954961af065ea4c649e7f1fd6cd0e89"
+    },
+    {
+     "version": 44,
+     "from": "2021-02-01",
+     "to": "2025-12-31",
+     "laws": [
+      "2020.357"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=44",
+     "sha256": "e4f8ae15264a7cb6e6889e7aa1dc568a742b545299472a52d54ed710281ed602"
+    },
+    {
+     "version": 45,
+     "from": "2026-01-01",
+     "to": null,
+     "laws": [
+      "2025.015"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1921015000?version=45",
+     "sha256": "9518d45197ea1e461721943d8be443c004c368c75e0a572ded4d76c717e8c8f1"
+    }
+   ]
+  },
+  {
+   "lgbl": "1973.050",
+   "lr": "161",
+   "slug": "vrg",
+   "title": "Gesetz vom 17. Juli 1973 betreffend die Ausübung der politischen Volksrechte in Landesangelegenheiten",
+   "versions": [
+    {
+     "version": 1,
+     "from": "1973-11-23",
+     "to": "1974-11-18",
+     "laws": [
+      "1973.050"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=1",
+     "sha256": "367c678263e6014bd8d7efcd5c2c65c8fb33122b9d3d14e4f08475a56f0627aa"
+    },
+    {
+     "version": 2,
+     "from": "1974-11-19",
+     "to": "1977-01-10",
+     "laws": [
+      "1974.066"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=2",
+     "sha256": "1d4e91ba9a4befb7bc62f398291d446b9b2b765b250481e808eec533c90b3b1a"
+    },
+    {
+     "version": 3,
+     "from": "1977-01-11",
+     "to": "1985-01-08",
+     "laws": [
+      "1978.003"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=3",
+     "sha256": "8db24a8903156878f7639ab45a0699b98a65b41f417d51d89f74c5579e89ca50"
+    },
+    {
+     "version": 4,
+     "from": "1985-01-09",
+     "to": "1985-05-27",
+     "laws": [
+      "1985.004"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=4",
+     "sha256": "5bf807155cbccb4cd28d77c8829e45180839e8b88d430f37e65a98a7c51331e5"
+    },
+    {
+     "version": 5,
+     "from": "1985-05-28",
+     "to": "1987-10-23",
+     "laws": [
+      "1985.028"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=5",
+     "sha256": "b11c9410fe9d80c2bb163496b5929416ddd911d6b9b11fa7823918deb9609fb5"
+    },
+    {
+     "version": 6,
+     "from": "1987-10-24",
+     "to": "1988-12-31",
+     "laws": [
+      "1987.049"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=6",
+     "sha256": "3cef4d6102596866c27f89486deb4e0092a2e81d133ddf120253c83e5fc5ef30"
+    },
+    {
+     "version": 7,
+     "from": "1989-01-01",
+     "to": "1992-11-01",
+     "laws": [
+      "1988.038"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=7",
+     "sha256": "cc895df483810b83c0cbd76a6c66dd0a91c8b330e11383b677d6c7544ecf8d75"
+    },
+    {
+     "version": 8,
+     "from": "1992-11-02",
+     "to": "1995-01-31",
+     "laws": [
+      "1992.100"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=8",
+     "sha256": "af41185a6ab24408c06ae184c0fdd8c70572aa3eb0505197523e0da789329451"
+    },
+    {
+     "version": 9,
+     "from": "1995-02-01",
+     "to": "1996-06-27",
+     "laws": [
+      "1995.013"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=9",
+     "sha256": "1118c778c9db24099dfe28ca47589c2a521d997f8229eab1dfa1b3fefae22f5e"
+    },
+    {
+     "version": 10,
+     "from": "1996-06-28",
+     "to": "1996-08-21",
+     "laws": [
+      "1996.084"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=10",
+     "sha256": "39b96548bad1648b2fba919ea890eccf82e0ae6dec8292d1821be11cee3203ab"
+    },
+    {
+     "version": 11,
+     "from": "1996-08-22",
+     "to": "2000-02-10",
+     "laws": [
+      "1996.115"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=11",
+     "sha256": "88093cbf7244ee15924b96a874a1019cbc6676c85fadb7254a6624c690a886b1"
+    },
+    {
+     "version": 12,
+     "from": "2000-02-11",
+     "to": "2004-01-19",
+     "laws": [
+      "2000.056"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=12",
+     "sha256": "5b363a18c79ed6ff6e0786293ab0ada41f36b7ce972fa297e37d7a551e4a3f7a"
+    },
+    {
+     "version": 14,
+     "from": "2004-01-20",
+     "to": "2004-11-11",
+     "laws": [
+      "2004.035",
+      "2004.033"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=14",
+     "sha256": "44e024b5e803df219a589b042ad251d97f5e5c31d2821c2a883c0e6e8f4fb22c"
+    },
+    {
+     "version": 15,
+     "from": "2004-11-12",
+     "to": "2008-06-16",
+     "laws": [
+      "2004.235"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=15",
+     "sha256": "da019ce83465dd8f19abf988b3711a9f4e1ba2e693133ee300d51c0b23c7093b"
+    },
+    {
+     "version": 16,
+     "from": "2008-06-17",
+     "to": "2010-12-31",
+     "laws": [
+      "2008.138"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=16",
+     "sha256": "e196d65f4972fd906f7040d504ab5d3684c553ac6763b66f9da5642bfce7ef85"
+    },
+    {
+     "version": 18,
+     "from": "2011-01-01",
+     "to": "2011-12-31",
+     "laws": [
+      "2010.374",
+      "2010.130"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=18",
+     "sha256": "2eee44d336e25fd88cdac0dc7f02f08bf35652dc5ffc2387e32e62949fc9ea7d"
+    },
+    {
+     "version": 19,
+     "from": "2012-01-01",
+     "to": "2012-06-09",
+     "laws": [
+      "2011.595"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=19",
+     "sha256": "3e2d8dd1ddcafe879ec0a6501268fe65f0a08bb3f4d205b72908e04e2903dd88"
+    },
+    {
+     "version": 20,
+     "from": "2012-06-10",
+     "to": "2012-11-30",
+     "laws": [
+      "2011.223"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=20",
+     "sha256": "e4548df7eef78281ce18ae5e262e4fda6e13839b5d1f46f1a1209cbb9134e802"
+    },
+    {
+     "version": 21,
+     "from": "2012-12-01",
+     "to": null,
+     "laws": [
+      "2012.357"
+     ],
+     "html": "https://www.gesetze.li/konso/html/1973050000?version=21",
+     "sha256": "b642931e57240b0b4507672df337752583219286fe770d344697991a66a5a512"
+    }
+   ]
+  },
+  {
+   "lgbl": "2004.032",
+   "lr": "173.10",
+   "slug": "stghg",
+   "title": "Gesetz vom 27. November 2003 über den Staatsgerichtshof (StGHG)",
+   "versions": [
+    {
+     "version": 2,
+     "from": "2009-11-03",
+     "to": "2012-12-13",
+     "laws": [
+      "2009.288"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=2",
+     "sha256": "1a28faec77caa237ca1033df1a84c7455e82658400d3cf26defd5952297e077e"
+    },
+    {
+     "version": 3,
+     "from": "2012-12-14",
+     "to": "2016-12-31",
+     "laws": [
+      "2012.398"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=3",
+     "sha256": "d2f2fd5d097dd2165a19bc20a5e1c897ea73f013e70686a2ac6f0c346eb30a7a"
+    },
+    {
+     "version": 4,
+     "from": "2017-01-01",
+     "to": "2017-04-24",
+     "laws": [
+      "2016.410"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=4",
+     "sha256": "cbb83e1069d952dde74be62f02a658523ddab073c0f6fccbfda89c26e8b9644b"
+    },
+    {
+     "version": 5,
+     "from": "2017-04-25",
+     "to": "2018-12-07",
+     "laws": [
+      "2016.501"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=5",
+     "sha256": "6f94972fa601d7dc017c6ac93851781b49f67d1554954df5176848c15284ad19"
+    },
+    {
+     "version": 6,
+     "from": "2018-12-08",
+     "to": "2018-12-31",
+     "laws": [
+      "2018.271"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=6",
+     "sha256": "1459998e397b201c5a706f7b76f6f5f571724b317f9726da64fabf941f4f85c9"
+    },
+    {
+     "version": 7,
+     "from": "2019-01-01",
+     "to": "2019-02-28",
+     "laws": [
+      "2018.211"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=7",
+     "sha256": "0e0f56e52e5a5de535142c048c6aac7a9c90f971265ec31f0f2f3dd566dfdc1e"
+    },
+    {
+     "version": 8,
+     "from": "2019-03-01",
+     "to": "2020-12-31",
+     "laws": [
+      "2018.471"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=8",
+     "sha256": "3dbcaa4fc77266b95a01ce77a7c4bf59fddc9fc45f970d69e417de49344dfba8"
+    },
+    {
+     "version": 9,
+     "from": "2021-01-01",
+     "to": "2025-12-31",
+     "laws": [
+      "2020.312"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=9",
+     "sha256": "cb10318baf24b4614b08e9f9f2f8aa773cc2dca3e85bbbb963d5457d5bc00497"
+    },
+    {
+     "version": 10,
+     "from": "2026-01-01",
+     "to": null,
+     "laws": [
+      "2025.019"
+     ],
+     "html": "https://www.gesetze.li/konso/html/2004032000?version=10",
+     "sha256": "e08c05ec6e6de80ece3348e088c117c5a4a35018bb596d039be6c46b27a983a1"
+    }
+   ]
+  }
+ ]
+}
