@@ -34,5 +34,10 @@
   "citation": {
     "file": "([a-z]+)/art-0*([0-9]+[a-z]*)\\.md",
     "cites": "(Art\\.|Artikel) ?{n}([^0-9a-z]|$)"
-  }
+  },
+  "label": "Liechtenstein",
+  "language": "de",
+  "checked_on": "2026-10-28",
+  "history": "in-force",
+  "record_note": "Checked against the official source on 2026-10-28."
 }
