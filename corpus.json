@@ -1,6 +1,6 @@
 {
   "corpus": "li/national/acts",
-  "name": "Liechtenstein: Verfassung (LV), Volksrechtegesetz (VRG), Staatsgerichtshofgesetz (StGHG)",
+  "name": "Liechtenstein: current national acts and selected full histories",
   "acts": [
     "LV",
     "VRG",
@@ -30,14 +30,21 @@
   },
   "tool": "tools/stand_am.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-01-01",
+  "record_to": "2026-11-03",
   "citation": {
     "file": "([a-z]+)/art-0*([0-9]+[a-z]*)\\.md",
     "cites": "(Art\\.|Artikel) ?{n}([^0-9a-z]|$)"
   },
   "label": "Liechtenstein",
   "language": "de",
-  "checked_on": "2026-10-28",
+  "checked_on": "2026-11-03",
   "history": "in-force",
-  "record_note": "Checked against the official source on 2026-10-28."
+  "record_note": "The breadth append contains 500 source-checked current-text acts as at 2026-11-03; LV, VRG and StGHG retain their published histories.",
+  "breadth_current": {
+    "as_of": "2026-11-03",
+    "acts": 500,
+    "official_listing": 3689,
+    "label": "oldest version available",
+    "manifest": "data/current-acts.json"
+  }
 }

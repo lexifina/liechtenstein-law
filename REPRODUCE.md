@@ -166,3 +166,29 @@ only the Landesgesetzblatt is authoritative.
   named from the footnotes, and keeps Lilex's own corrections apart.
 - Lexifina's other corpora, whose rules this one follows: Swiss federal law (lexifina/swiss-law), the Grundgesetz, UK
   legislation and the US Code.
+## Breadth-first current-text append
+
+The repository was later extended from published base `9643f48ffeb106e8a5ae104e776b814a550d1ce1` with 500 current-text acts observed on
+2026-11-03. The exact deterministic input is `data/breadth-input.json`; it contains each official source URL and
+SHA-256, version and gazette dates, ordered text files, and the URL, SHA-256, size, format and placement path of every
+official embedded image. The original image bytes are also present as `assets/<sha256>.<ext>` in each affected act,
+and `.gitattributes` declares those files binary.
+
+To reproduce the append, first make a separate clone fixed at the base above. From this final repository clone run:
+
+```sh
+python -X utf8 tools/append_current.py --part data/breadth-input.json --repo ../rebuilt --expected-base 9643f48ffeb106e8a5ae104e776b814a550d1ce1
+python -X utf8 tools/check_current.py --part data/breadth-input.json --repo ../rebuilt --cache <fresh-official-cache> --base 9643f48ffeb106e8a5ae104e776b814a550d1ce1
+```
+
+`data/breadth-input.json` is the complete append input rather than a private staging reference: it records the ordered
+text of every committed law file and all source/date/asset metadata needed by the builder. The committed act folders
+supply the exact asset bytes, checked against the hashes in that input. For an independent source recheck, obtain the
+official URLs listed in the input into a new directory and pass that directory as `<fresh-official-cache>` above.
+The checker requires every HTML and image SHA-256 to match, all source dates and text words to match, and every official
+image to have the same ordered inline reference and committed bytes. A second clean append must produce the identical
+head.
+
+This breadth append and its image-completeness repair were built by an OpenAI GPT-6 worker in Codex. The model wrote
+and ran collection/build/check tooling and documentation. It did not write, edit or OCR legal text or official
+images; all law text and asset bytes come from Lilex, and no model is called by the deterministic build.

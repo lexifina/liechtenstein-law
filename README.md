@@ -91,3 +91,6 @@ Drei Erlasse des Fürstentums Liechtenstein als Git-Repository: die Verfassung (
   Rechtsdienst der Regierung und so bezeichnet.
 
 Konsolidierte Rechtsvorschriften entfalten keine Rechtswirkung; massgebend ist allein das Landesgesetzblatt.
+## Current-text breadth append
+
+This repository also records 500 further current consolidated acts from the official Lilex listing as at 2026-11-03. Each is one source-dated version labelled “oldest version available”; earlier versions are deferred. The source chronology supplies each effective date and gazette issue date. Structured acts are split into provision files; acts the reader cannot safely split are retained as a single complete text file. Official embedded images are preserved as original assets and referenced at their source positions. Metadata is in `data/current-acts.json`.
