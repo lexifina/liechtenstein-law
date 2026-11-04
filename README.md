@@ -1,6 +1,6 @@
-# Liechtenstein law, change by change
+# Liechtenstein law: current texts and selected histories
 
-Three acts of the Principality of Liechtenstein as a git repository: the Constitution (Verfassung, LV, LR 101), the
+Selected full histories of three acts of the Principality of Liechtenstein: the Constitution (Verfassung, LV, LR 101), the
 People's Rights Act (Volksrechtegesetz, VRG, LR 161) and the Constitutional Court Act (Staatsgerichtshofgesetz, StGHG,
 LR 173.10). Each amending law is one commit, credited to that law and dated the day it took effect, at noon in Vaduz.
 The text is the consolidated text published by the Government's Legal Service in [Lilex](https://www.gesetze.li).
@@ -57,7 +57,6 @@ lists for the earlier history. Nothing before it is guessed.
 - Versions Lilex does not publish as text (the StGHG before 2009). The VRG's last version in Lilex is from 2012.
 - The footnotes themselves, and Lilex's notes on case law. The footnotes are used to credit changes.
 - Laws not yet in force (Lilex lists only versions in force; a branch `kuenftig` would hold them).
-- Any act beyond these three. The same build works for any act in Lilex: add it to `ACTS` in `tools/build.py`.
 
 Consolidated texts have no legal force; only the Landesgesetzblatt is authoritative.
 
@@ -91,6 +90,15 @@ Drei Erlasse des Fürstentums Liechtenstein als Git-Repository: die Verfassung (
   Rechtsdienst der Regierung und so bezeichnet.
 
 Konsolidierte Rechtsvorschriften entfalten keine Rechtswirkung; massgebend ist allein das Landesgesetzblatt.
+
 ## Current-text breadth append
 
-This repository also records 500 further current consolidated acts from the official Lilex listing as at 2026-11-03. Each is one source-dated version labelled “oldest version available”; earlier versions are deferred. The source chronology supplies each effective date and gazette issue date. Structured acts are split into provision files; acts the reader cannot safely split are retained as a single complete text file. Official embedded images are preserved as original assets and referenced at their source positions. Metadata is in `data/current-acts.json`.
+The repository records 3686 further source-dated current texts, alongside three selected full histories. Coverage is 3689 of 3689 officially listed current records as at 2026-11-04. Every breadth act has one version, labelled “oldest version available”; earlier history is not included. Dates are the official version start and matching gazette chronology dates. Complete single-file texts retain acts whose structure cannot safely be split. Official images remain in place as original SHA-256-named binary assets.
+
+| Record | Acts |
+|---|---:|
+| Selected dated histories | 3 |
+| Current-text breadth acts | 3686 |
+| Official current listing | 3689 |
+
+Act metadata is in `data/current-acts.json`; the latest append input is in `data/breadth-input.json`, and earlier append inputs are retained under `data/inputs/`.

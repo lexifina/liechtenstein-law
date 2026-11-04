@@ -1,12 +1,8 @@
 {
   "corpus": "li/national/acts",
   "name": "Liechtenstein: current national acts and selected full histories",
-  "acts": [
-    "LV",
-    "VRG",
-    "StGHG"
-  ],
-  "history_from": "1921-10-24",
+  "acts": 3689,
+  "history_from": "1868-03-14",
   "built": "2026-10-28",
   "dates": {
     "commit": "in-force",
@@ -18,33 +14,28 @@
     "time": "12:00 Europe/Vaduz",
     "before_1970": "commit dates clamped to 1970-01-01; the In-force trailer is authoritative"
   },
-  "scope": {
-    "trailer": null,
-    "when_absent": "no scope note is recorded in this history; not a statement that a change reaches every case",
-    "default_reach": {
-      "rule": "statutes do not act retroactively",
-      "meaning": "a law applies to facts arising after it takes effect unless it says otherwise; criminal penalties never apply retroactively",
-      "authority": "ABGB § 5 (Gesetze wirken nicht zurück); Landesverfassung Art. 33 Abs. 2",
-      "decided_here": false
-    }
-  },
+  "scope": "all-acts",
   "tool": "tools/stand_am.py",
   "in_force_trailer": "In-force",
-  "record_to": "2026-11-03",
+  "record_to": "2026-11-04",
   "citation": {
     "file": "([a-z]+)/art-0*([0-9]+[a-z]*)\\.md",
     "cites": "(Art\\.|Artikel) ?{n}([^0-9a-z]|$)"
   },
   "label": "Liechtenstein",
   "language": "de",
-  "checked_on": "2026-11-03",
+  "checked_on": "2026-11-04",
   "history": "in-force",
-  "record_note": "The breadth append contains 500 source-checked current-text acts as at 2026-11-03; LV, VRG and StGHG retain their published histories.",
+  "record_note": "3686 source-dated current texts and three selected dated histories. Earlier versions of breadth acts are not included.",
   "breadth_current": {
-    "as_of": "2026-11-03",
-    "acts": 500,
+    "as_of": "2026-11-04",
+    "acts": 3686,
     "official_listing": 3689,
     "label": "oldest version available",
-    "manifest": "data/current-acts.json"
-  }
+    "manifest": "data/current-acts.json",
+    "append_acts": 3186
+  },
+  "path": "liechtenstein/national/acts",
+  "publisher": "Rechtsdienst der Regierung (Lilex)",
+  "future_branch": null
 }

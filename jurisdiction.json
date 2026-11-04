@@ -1,0 +1,14 @@
+{
+  "name": "Liechtenstein",
+  "code": "LI",
+  "level": "national",
+  "iso_path": "li/national/acts",
+  "path": "liechtenstein/national/acts",
+  "language": "de",
+  "build": {
+    "status": "complete",
+    "acts": 3689,
+    "listed_acts": 3689,
+    "as_of": "2026-11-04"
+  }
+}

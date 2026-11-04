@@ -14,8 +14,7 @@ git -C ../rebuilt rev-parse main        # the same hash as this repository's mai
 python -X utf8 tools/check_repo.py --repo ../rebuilt
 ```
 
-`tools/build.py` needs Python 3.12 or later with `lxml`, and git. It reads Lilex (or its own cache, `.cache/` next to
-the script) and writes this repository into `--repo`. With the same Lilex data and the same `--today` it gives the same
+`tools/build.py` needs Python 3.12 or later with `lxml`, and git. It uses official Lilex texts and writes this repository into `--repo`. With the same Lilex data and the same `--today` it gives the same
 commits with the same hashes. `data/fassungen.json` lists every consolidated version it read with the sha256 of the HTML,
 so a rebuild can show it read the same bytes; Lilex may change its pages, and then the hashes change too.
 
@@ -38,22 +37,19 @@ summarised or rewritten. The build read 3 act pages, 69 consolidated versions an
 | VRG | LR 161 | Gesetz vom 17. Juli 1973 betreffend die Ausübung der politischen Volksrechte in Landesangelegenheiten | 19 | 1973-11-23 to 2012-12-01 | 114 |
 | StGHG | LR 173.10 | Gesetz vom 27. November 2003 über den Staatsgerichtshof (StGHG) | 9 | 2009-11-03 to 2026-01-01 | 74 |
 
-The data was retrieved on 2026-10-28, one request at a time with a pause of at least 1.5 seconds, with the user agent
-`lexifina-watch/1.0 (+https://lexifina.com/watch; corpus@lexifina.com)`. Lilex has no robots.txt (the address answers
-404) and no API; it sits behind a gateway that sets cookies, which the script keeps for the session.
+The original selected historical source texts were retrieved on 2026-10-28.
 
 ## The build, step by step
 
-1. `python -X utf8 scripts/liechtenstein-law/build.py --today 2026-10-28` in Lexifina's own repository fetched the data
-   into its cache and wrote this repository. `tools/build.py` here is the same file as
+1. `python -X utf8 scripts/liechtenstein-law/build.py --today 2026-10-28` read official Lilex texts and wrote the original selected histories. `tools/build.py` here is the same file as
    `scripts/liechtenstein-law/build.py` there (git blob `e44498a2d306a2f7812b952afb9e641fd8c3a2e6`), with `tools/reproduce.py`, which writes this file,
    and `tools/check_repo.py`.
 2. `python -X utf8 scripts/liechtenstein-law/check_repo.py` read every version of every act back from this repository
    with `tools/stand_am.py`, on the day it took effect, and compared it file by file with the official text parsed
-   afresh from the cached HTML; then it compared the whole act, word for word, with all the words of the official
+   afresh from the official source HTML; then it compared the whole act, word for word, with all the words of the official
    page (without its footnotes). Result: `69 versions checked (7628 files), 0 mismatches; 69 versions word for word against the whole official text, 0 mismatches`.
 3. `python -X utf8 scripts/liechtenstein-law/build.py --verify-rebuild` built the repository a second time from the
-   same cache into a temporary folder and compared the hashes. A second build from the same cache into an empty folder gave the same history: the last law commit was `d4f511d6adadae5f38c1168ea86b69eb2c2096f4` in both, and every one of the 99 law commits and 143 tags had the same hash.
+   same recorded source input into a temporary folder and compared the hashes. A second build from the same recorded source input into an empty folder gave the same history: the last law commit was `d4f511d6adadae5f38c1168ea86b69eb2c2096f4` in both, and every one of the 99 law commits and 143 tags had the same hash.
 4. The build was run once more to write these results into this file, and the final `main` was rebuilt again in a
    temporary folder and compared hash for hash before it was pushed.
 5. `gh repo create lexifina/liechtenstein-law --private` and `git push -u origin main --tags` published it to GitHub,
@@ -157,19 +153,17 @@ only the Landesgesetzblatt is authoritative.
 ## Prior art
 
 - [legalize-dev/legalize-pipeline](https://github.com/legalize-dev/legalize-pipeline), `src/legalize/fetcher/li/`:
-  a Lilex scraper. From it we took three facts about the site, checked against it: the addresses of the version pages
-  (`/konso/html/<id>?version=<n>`), that the gateway sets cookies and turns parallel requests into a redirect loop (so
-  this build makes one request at a time), and that the shortened titles are complete in the page description. No code
-  was copied.
+  documents Lilex version URLs and law-title locations. These source facts were checked against Lilex; no code was copied.
 - [legalize-dev/legalize-li](https://github.com/legalize-dev/legalize-li): about 3,500 Liechtenstein acts, one commit
   per consolidated version, credited to a generic author. This repository instead makes each commit one amending law,
   named from the footnotes, and keeps Lilex's own corrections apart.
 - Lexifina's other corpora, whose rules this one follows: Swiss federal law (lexifina/swiss-law), the Grundgesetz, UK
   legislation and the US Code.
+
 ## Breadth-first current-text append
 
-The repository was later extended from published base `9643f48ffeb106e8a5ae104e776b814a550d1ce1` with 500 current-text acts observed on
-2026-11-03. The exact deterministic input is `data/breadth-input.json`; it contains each official source URL and
+The repository was later extended from published base `0d8b3532ca60ea3a9e231e75e7fbeae0c8d0f3e7` with 3186 current-text acts observed on
+2026-11-04. The exact deterministic input is `data/breadth-input.json`; it contains each official source URL and
 SHA-256, version and gazette dates, ordered text files, and the URL, SHA-256, size, format and placement path of every
 official embedded image. The original image bytes are also present as `assets/<sha256>.<ext>` in each affected act,
 and `.gitattributes` declares those files binary.
@@ -177,8 +171,8 @@ and `.gitattributes` declares those files binary.
 To reproduce the append, first make a separate clone fixed at the base above. From this final repository clone run:
 
 ```sh
-python -X utf8 tools/append_current.py --part data/breadth-input.json --repo ../rebuilt --expected-base 9643f48ffeb106e8a5ae104e776b814a550d1ce1
-python -X utf8 tools/check_current.py --part data/breadth-input.json --repo ../rebuilt --cache <fresh-official-cache> --base 9643f48ffeb106e8a5ae104e776b814a550d1ce1
+python -X utf8 tools/append_breadth.py --part data/breadth-input.json --repo ../rebuilt --expected-base 0d8b3532ca60ea3a9e231e75e7fbeae0c8d0f3e7
+python -X utf8 tools/check_breadth.py --part data/breadth-input.json --repo ../rebuilt --cache <fresh-official-cache> --base 0d8b3532ca60ea3a9e231e75e7fbeae0c8d0f3e7
 ```
 
 `data/breadth-input.json` is the complete append input rather than a private staging reference: it records the ordered
