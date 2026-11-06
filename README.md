@@ -1,5 +1,7 @@
 # Liechtenstein law: current texts and selected histories
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Liechtenstein's national law, which global-law reads at `liechtenstein/national/acts/`.
+
 Selected full histories of three acts of the Principality of Liechtenstein: the Constitution (Verfassung, LV, LR 101), the
 People's Rights Act (Volksrechtegesetz, VRG, LR 161) and the Constitutional Court Act (Staatsgerichtshofgesetz, StGHG,
 LR 173.10). Each amending law is one commit, credited to that law and dated the day it took effect, at noon in Vaduz.
