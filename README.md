@@ -1,111 +1,122 @@
-# Liechtenstein law: current texts and selected histories
+# Liechtensteinisches Recht: geltende Texte und ausgewählte Versionsgeschichten
+
+**Deutsch** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Liechtenstein law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/de/effort-dark.svg">
+<img alt="Liechtensteinisches Recht in diesem Repository: Inhalt, Änderungen nach Jahr des Inkrafttretens, Vollständigkeit gegenüber den amtlichen Quellen und Richtigkeit des Enthaltenen" src="data/de/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Liechtenstein's national law, which global-law reads at `liechtenstein/national/acts/`.
+Teil von [lexifina/global-law](https://github.com/lexifina/global-law), einer einzigen Git-Historie für das Recht aller Länder: Dies ist das Landesrecht Liechtensteins, das global-law unter `liechtenstein/national/acts/` liest.
 
-Selected full histories of three acts of the Principality of Liechtenstein: the Constitution (Verfassung, LV, LR 101), the
-People's Rights Act (Volksrechtegesetz, VRG, LR 161) and the Constitutional Court Act (Staatsgerichtshofgesetz, StGHG,
-LR 173.10). Each amending law is one commit, credited to that law and dated the day it took effect, at noon in Vaduz.
-The text is the consolidated text published by the Government's Legal Service in [Lilex](https://www.gesetze.li).
+Ausgewählte vollständige Versionsgeschichten von drei Erlassen des Fürstentums Liechtenstein: der Verfassung (LV,
+LR 101), dem Volksrechtegesetz (VRG, LR 161) und dem Staatsgerichtshofgesetz (StGHG, LR 173.10). Jedes
+Abänderungsgesetz ist ein Commit, diesem Gesetz zugeschrieben und auf den Tag seines Inkrafttretens datiert, 12 Uhr
+mittags in Vaduz. Der Text ist der konsolidierte Text, den der Rechtsdienst der Regierung in [Lilex](https://www.gesetze.li)
+veröffentlicht.
 
-*Deutsch: [unten](#deutsch).*
+## Die Fragen als Git-Befehle
 
-## The questions, as git commands
-
-| Question | Command |
+| Frage | Befehl |
 | --- | --- |
-| What did Art. 7 of the Constitution say on 1 January 2000? | `python tools/stand_am.py 2000-01-01 lv 7` |
-| The whole Constitution as it stood in 1950 | `python tools/stand_am.py 1950-01-01 lv` |
-| Which law wrote each paragraph of Art. 7? | `git blame lv/art-007.md` |
-| Every change to Art. 7, with the law and the day | `git log -p lv/art-007.md` |
-| Everything one law changed | `git show lgbl/2003-186` |
-| What changed in the VRG on one day | `git show vrg/2004-11-12` |
-| The amending laws with all their dates | [`erlasse.csv`](erlasse.csv) |
-| Changes no footnote explains | `git log --grep="Änderung ohne Nachweis"` |
-| Laws that touched several acts | `git log --author="LGBl. 2025"` |
+| Was sagte Art. 7 der Verfassung am 1. Januar 2000? | `python tools/stand_am.py 2000-01-01 lv 7` |
+| Die ganze Verfassung im Stand von 1950 | `python tools/stand_am.py 1950-01-01 lv` |
+| Welches Gesetz hat welchen Absatz von Art. 7 geschrieben? | `git blame lv/art-007.md` |
+| Jede Änderung von Art. 7, mit dem Gesetz und dem Tag | `git log -p lv/art-007.md` |
+| Alles, was ein Gesetz geändert hat | `git show lgbl/2003-186` |
+| Was sich im VRG an einem Tag geändert hat | `git show vrg/2004-11-12` |
+| Die Abänderungsgesetze mit allen ihren Daten | [`erlasse.csv`](erlasse.csv) |
+| Änderungen, die keine Fussnote erklärt | `git log --grep="Änderung ohne Nachweis"` |
+| Gesetze, die mehrere Erlasse geändert haben | `git log --author="LGBl. 2025"` |
 
-## The dates, and which one we use
+## Die Daten und welches wir verwenden
 
-A Liechtenstein law has a date in its title (`Dated:`, "Verfassungsgesetz vom 8. November 2024"), the day the
-Landesgesetzblatt that publishes it is issued (`Published:`), and the day it takes effect (`In-force:`). **Commits are
-dated the day the change took effect**, at noon in Vaduz: that is the day that decides which text applies. It is the
-day Lilex gives as the start of the version the law produced. All three dates are in every commit message.
+Ein liechtensteinisches Gesetz hat ein Datum im Titel (`Dated:`, «Verfassungsgesetz vom 8. November 2024»), den
+Ausgabetag des Landesgesetzblatts, in dem es kundgemacht wird (`Published:`), und den Tag seines Inkrafttretens
+(`In-force:`). **Commits tragen das Datum des Tages, an dem die Änderung in Kraft trat**, 12 Uhr mittags in Vaduz:
+Dieser Tag entscheidet, welcher Text gilt. Es ist der Tag, den Lilex als Beginn der Fassung angibt, die aus dem Gesetz
+hervorgegangen ist. Alle drei Daten stehen in jeder Commit-Nachricht.
 
-Git cannot store a date before 1970. The commits for the Constitution's changes from 1921 to 1965 are dated
-1 January 1970 (UTC), a second apart in order, and their real day is in the `In-force:` trailer, which
-`tools/stand_am.py` reads. One date in the source is anomalous and kept as given (LGBl. 1978 Nr. 3, see its commit).
+Git kann kein Datum vor 1970 speichern. Die Commits für die Änderungen der Verfassung von 1921 bis 1965 sind auf den
+1. Januar 1970 (UTC) datiert, in ihrer Reihenfolge jeweils eine Sekunde auseinander; ihr tatsächlicher Tag steht im
+Trailer `In-force:`, den `tools/stand_am.py` liest. Ein Datum in der Quelle ist auffällig und wird so beibehalten, wie
+es angegeben ist (LGBl. 1978 Nr. 3, siehe dessen Commit).
 
-## How it is checked
+## Wie es geprüft wird
 
-`tools/check_repo.py` reads every version of every act back from git on the day it took effect and compares it with
-the official text: file by file with the text parsed from Lilex's page, and word for word with all the words of the
-page (without footnotes), read independently of the parser. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+`tools/check_repo.py` liest jede Fassung jedes Erlasses am Tag ihres Inkrafttretens aus Git zurück und vergleicht sie
+mit dem amtlichen Text: Datei für Datei mit dem Text, der aus der Seite in Lilex geparst wird, und Wort für Wort mit
+allen Wörtern der Seite (ohne Fussnoten), unabhängig vom Parser gelesen. Die Ergebnisse stehen in
+[`REPRODUCE.md`](REPRODUCE.md).
 
-## What "author" means
+## Was «Autor» bedeutet
 
-The author of a commit is the law that made the change: `LGBl. 2003 Nr. 186` (with an address ending
-`@gesetze-li.invalid`, which cannot exist), so `git blame` names the law. Lilex lists, for each version, the laws that
-produced it, and the footnote under each amended provision names the law that changed it ("Art. 7 Abs. 2 abgeändert
-durch LGBl. 2003 Nr. 186."). A change is credited to a law only when the footnotes name it. A change no footnote
-explains, usually Lilex's own correction of spelling, punctuation or spacing, is committed separately by
-`Rechtsdienst der Regierung (Lilex)`, with "Änderung ohne Nachweis" in its subject; it is never credited to a law.
-The committer is always `Lexifina`.
+Der Autor eines Commits ist das Gesetz, das die Änderung vorgenommen hat: `LGBl. 2003 Nr. 186` (mit einer Adresse auf
+`@gesetze-li.invalid`, die es nicht geben kann), so dass `git blame` das Gesetz nennt. Lilex führt für jede Fassung die
+Gesetze auf, aus denen sie hervorgegangen ist, und die Fussnote unter jeder geänderten Bestimmung nennt das Gesetz, das
+sie geändert hat («Art. 7 Abs. 2 abgeändert durch LGBl. 2003 Nr. 186.»). Eine Änderung wird einem Gesetz nur
+zugeschrieben, wenn die Fussnoten es nennen. Eine Änderung, die keine Fussnote erklärt, meist eine eigene Korrektur von
+Rechtschreibung, Zeichensetzung oder Abständen durch Lilex, wird gesondert vom `Rechtsdienst der Regierung (Lilex)`
+committet, mit «Änderung ohne Nachweis» im Betreff; sie wird nie einem Gesetz zugeschrieben. Committer ist immer
+`Lexifina`.
 
-The Constitution and the VRG begin with the act as enacted, credited to the act itself. Lilex has no text of the StGHG
-before 3 November 2009, so its first commit is that version, by the Legal Service, and its message names the laws Lilex
-lists for the earlier history. Nothing before it is guessed.
+Die Verfassung und das VRG beginnen mit dem Erlass in seiner ursprünglichen Fassung, dem Erlass selbst zugeschrieben.
+Lilex hat keinen Text des StGHG vor dem 3. November 2009; sein erster Commit ist daher diese Fassung, vom Rechtsdienst,
+und seine Nachricht nennt die Gesetze, die Lilex für die frühere Geschichte aufführt. Nichts davor wird erraten.
 
-## What it does not show
+## Was es nicht zeigt
 
-- Versions Lilex does not publish as text (the StGHG before 2009). The VRG's last version in Lilex is from 2012.
-- The footnotes themselves, and Lilex's notes on case law. The footnotes are used to credit changes.
-- Laws not yet in force (Lilex lists only versions in force; a branch `kuenftig` would hold them).
+- Fassungen, die Lilex nicht als Text veröffentlicht (das StGHG vor 2009). Die letzte Fassung des VRG in Lilex stammt
+  von 2012.
+- Die Fussnoten selbst und die Hinweise von Lilex zur Rechtsprechung. Die Fussnoten dienen dazu, Änderungen
+  zuzuschreiben.
+- Gesetze, die noch nicht in Kraft sind (Lilex führt nur geltende Fassungen; ein Branch `kuenftig` würde sie
+  aufnehmen).
 
-Consolidated texts have no legal force; only the Landesgesetzblatt is authoritative.
+Konsolidierte Texte haben keine Rechtswirkung; massgebend ist allein das Landesgesetzblatt.
 
-## How it is built
+## Wie es erstellt wird
 
-`tools/build.py` reads Lilex and writes this repository from scratch; the same data gives the same hashes. Every
-step, the software, the decisions made by hand and what an AI model did are in [`REPRODUCE.md`](REPRODUCE.md). Each
-act's folder has a `README.md` listing its provisions with how often each changed.
+`tools/build.py` liest Lilex und schreibt dieses Repository von Grund auf neu; dieselben Daten ergeben dieselben Hashes.
+Jeder Schritt, die Software, die von Hand getroffenen Entscheidungen und was ein KI-Modell getan hat, stehen in
+[`REPRODUCE.md`](REPRODUCE.md). Der Ordner jedes Erlasses enthält eine `README.md`, die seine Bestimmungen auflistet und
+angibt, wie oft jede geändert wurde.
 
-## Licence
+## Lizenz
 
-Laws and other official enactments, and official collections of them, are not protected by copyright in Liechtenstein
-(Art. 5 URG). Source: Lilex, www.gesetze.li, Rechtsdienst der Regierung, Vaduz. Lilex states: "Konsolidierte
-Rechtsvorschriften dienen ausschliesslich der Information und entfalten keine Rechtswirkung." The history, commit
-messages, tables and tools are released under [CC0 1.0](LICENSE).
+Gesetze und andere amtliche Erlasse sowie amtliche Sammlungen davon sind in Liechtenstein nicht urheberrechtlich
+geschützt (Art. 5 URG). Quelle: Lilex, www.gesetze.li, Rechtsdienst der Regierung, Vaduz. Lilex hält fest:
+«Konsolidierte Rechtsvorschriften dienen ausschliesslich der Information und entfalten keine Rechtswirkung.» Die
+Historie, die Commit-Nachrichten, die Tabellen und die Werkzeuge werden unter [CC0 1.0](LICENSE) freigegeben.
 
----
+Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 
-## Deutsch
+## Ergänzung: geltende Texte in der Breite
 
-Drei Erlasse des Fürstentums Liechtenstein als Git-Repository: die Verfassung (LR 101), das Volksrechtegesetz
-(LR 161) und das Staatsgerichtshofgesetz (LR 173.10), im konsolidierten Text aus Lilex.
+Das Repository verzeichnet 3'686 weitere geltende Texte, nach der Quelle datiert, neben drei ausgewählten vollständigen
+Versionsgeschichten. Die Abdeckung beträgt 3'689 von 3'689 amtlich aufgeführten geltenden Einträgen, Stand
+4. November 2026. Jeder Erlass der Breite hat eine Fassung, bezeichnet als «oldest version available» (älteste
+verfügbare Fassung); frühere Geschichte ist nicht enthalten. Die Daten sind der amtliche Beginn der Fassung und die
+entsprechenden Daten der Chronologie des Landesgesetzblatts. Erlasse, deren Gliederung sich nicht sicher aufteilen
+lässt, bleiben als vollständiger Text in einer einzigen Datei erhalten. Amtliche Bilder bleiben an ihrem Platz, als
+ursprüngliche Binärdateien, die nach ihrem SHA-256-Wert benannt sind.
 
-- **Jeder Commit ist ein Abänderungserlass**, als Autor eingetragen (`LGBl. 2003 Nr. 186`), so dass `git blame` zeigt,
-  welches Gesetz welchen Absatz geschrieben hat. Den Erlass nennen die Chronologie von Lilex und die Fussnote unter
-  der Bestimmung.
-- **Jeder Commit trägt das Datum des Inkrafttretens**, Mittag in Vaduz. In der Nachricht stehen auch das Datum des
-  Gesetzes und der Ausgabetag des Landesgesetzblatts.
-- **Jeder Artikel ist eine Datei**, jeder Absatz eine Zeile.
-- **Änderungen ohne Nachweis sind keine Gesetze.** Wo sich der Text ohne Fussnote geändert hat, ist der Commit vom
-  Rechtsdienst der Regierung und so bezeichnet.
-
-Konsolidierte Rechtsvorschriften entfalten keine Rechtswirkung; massgebend ist allein das Landesgesetzblatt.
-
-## Current-text breadth append
-
-The repository records 3686 further source-dated current texts, alongside three selected full histories. Coverage is 3689 of 3689 officially listed current records as at 2026-11-04. Every breadth act has one version, labelled “oldest version available”; earlier history is not included. Dates are the official version start and matching gazette chronology dates. Complete single-file texts retain acts whose structure cannot safely be split. Official images remain in place as original SHA-256-named binary assets.
-
-| Record | Acts |
+| Eintrag | Erlasse |
 |---|---:|
-| Selected dated histories | 3 |
-| Current-text breadth acts | 3686 |
-| Official current listing | 3689 |
+| Ausgewählte datierte Versionsgeschichten | 3 |
+| Geltende Texte in der Breite | 3'686 |
+| Amtliches Verzeichnis der geltenden Erlasse | 3'689 |
 
-Act metadata is in `data/current-acts.json`; the latest append input is in `data/breadth-input.json`, and earlier append inputs are retained under `data/inputs/`.
+Die Metadaten der Erlasse stehen in `data/current-acts.json`; die Eingabe der letzten Ergänzung steht in
+`data/breadth-input.json`, frühere Eingaben werden unter `data/inputs/` aufbewahrt.
+
+## Mehr
+
+Aus dem Repository [lexifina/global-law](https://github.com/lexifina/global-law) (auf Englisch):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): alle Funktionen und was jedes Korpus unterstützen muss (`git blame`, `law.py`, MCP-Werkzeuge)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): Fragen und Antworten · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): Änderungen vorschlagen · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): MCP-Server · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): wie es erstellt wurde · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): wie aktuell jedes Korpus ist · [Überwachung](https://github.com/lexifina/global-law/tree/main/monitoring): ob die Aktualisierungen funktionieren · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): wie jede amtliche Quelle auf Änderungen überwacht wird
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): wie schnell die Werkzeuge sind, gemessen
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): Diagramme und Verbindungen im Recht der ganzen Welt
+- [Schwachstellen](https://github.com/lexifina/global-law/tree/main/vulnerabilities): Fehler in Rechtsakten, wie sie veröffentlicht wurden
