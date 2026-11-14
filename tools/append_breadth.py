@@ -84,11 +84,13 @@ def update_docs(repo, part, base):
     (repo / 'jurisdiction.json').write_text(json.dumps(jurisdiction, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     readme_path = repo / 'README.md'
     readme = readme_path.read_text(encoding='utf-8').split('## Current-text breadth append', 1)[0].rstrip()
-    readme = readme.replace('# Liechtenstein law, change by change', '# Liechtenstein law: current texts and selected histories', 1)
-    readme = readme.replace('Three acts of the Principality of Liechtenstein as a git repository:', 'Selected full histories of three acts of the Principality of Liechtenstein:', 1)
-    readme = readme.replace('- Any act beyond these three. The same build works for any act in Lilex: add it to `ACTS` in `tools/build.py`.\n', '')
-    readme += f'\n\n## Current-text breadth append\n\nThe repository records {len(manifests)} further source-dated current texts, alongside three selected full histories. Coverage is {total} of {part["official_listing"]} officially listed current records as at {part["as_of"]}. Every breadth act has one version, labelled “oldest version available”; earlier history is not included. Dates are the official version start and matching gazette chronology dates. Complete single-file texts retain acts whose structure cannot safely be split. Official images remain in place as original SHA-256-named binary assets.\n\n| Record | Acts |\n|---|---:|\n| Selected dated histories | 3 |\n| Current-text breadth acts | {len(manifests)} |\n| Official current listing | {part["official_listing"]} |\n\nAct metadata is in `data/current-acts.json`; the latest append input is in `data/breadth-input.json`, and earlier append inputs are retained under `data/inputs/`.\n'
-    readme_path.write_text(readme, encoding='utf-8')
+    # Since 2026-11-14 README.md is the German README on the serbia-law model (README.en.md beside it), with its counts written by hand: it is left as it is.
+    if '](README.en.md)' not in readme:
+        readme = readme.replace('# Liechtenstein law, change by change', '# Liechtenstein law: current texts and selected histories', 1)
+        readme = readme.replace('Three acts of the Principality of Liechtenstein as a git repository:', 'Selected full histories of three acts of the Principality of Liechtenstein:', 1)
+        readme = readme.replace('- Any act beyond these three. The same build works for any act in Lilex: add it to `ACTS` in `tools/build.py`.\n', '')
+        readme += f'\n\n## Current-text breadth append\n\nThe repository records {len(manifests)} further source-dated current texts, alongside three selected full histories. Coverage is {total} of {part["official_listing"]} officially listed current records as at {part["as_of"]}. Every breadth act has one version, labelled “oldest version available”; earlier history is not included. Dates are the official version start and matching gazette chronology dates. Complete single-file texts retain acts whose structure cannot safely be split. Official images remain in place as original SHA-256-named binary assets.\n\n| Record | Acts |\n|---|---:|\n| Selected dated histories | 3 |\n| Current-text breadth acts | {len(manifests)} |\n| Official current listing | {part["official_listing"]} |\n\nAct metadata is in `data/current-acts.json`; the latest append input is in `data/breadth-input.json`, and earlier append inputs are retained under `data/inputs/`.\n'
+        readme_path.write_text(readme, encoding='utf-8')
     reproduce = repo / 'REPRODUCE.md'
     text = reproduce.read_text(encoding='utf-8')
     text = text.replace('tools/append_current.py --part data/breadth-input.json', 'tools/append_breadth.py --part data/breadth-input.json')

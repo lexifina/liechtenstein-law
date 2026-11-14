@@ -287,19 +287,21 @@ def update_docs(repo: Path, part: dict, base: str) -> None:
 
     readme_path = repo / "README.md"
     readme = readme_path.read_text(encoding="utf-8")
-    marker = "## Current-text breadth append"
-    if marker in readme:
-        readme = readme.split(marker, 1)[0].rstrip() + "\n\n"
-    readme += (
-        f"{marker}\n\n"
-        f"This repository also records {len(acts)} further current consolidated acts from the official Lilex "
-        f"listing as at {part['as_of']}. Each is one source-dated version labelled “oldest version available”; "
-        "earlier versions are deferred. The source chronology supplies each effective date and gazette issue date. "
-        "Structured acts are split into provision files; acts the reader cannot safely split are retained as a "
-        "single complete text file. Official embedded images are preserved as original assets and referenced at "
-        "their source positions. Metadata is in `data/current-acts.json`.\n"
-    )
-    readme_path.write_text(readme, encoding="utf-8")
+    # Since 2026-11-14 README.md is the German README on the serbia-law model (README.en.md beside it), with its counts written by hand: it is left as it is.
+    if '](README.en.md)' not in readme:
+        marker = "## Current-text breadth append"
+        if marker in readme:
+            readme = readme.split(marker, 1)[0].rstrip() + "\n\n"
+        readme += (
+            f"{marker}\n\n"
+            f"This repository also records {len(acts)} further current consolidated acts from the official Lilex "
+            f"listing as at {part['as_of']}. Each is one source-dated version labelled “oldest version available”; "
+            "earlier versions are deferred. The source chronology supplies each effective date and gazette issue date. "
+            "Structured acts are split into provision files; acts the reader cannot safely split are retained as a "
+            "single complete text file. Official embedded images are preserved as original assets and referenced at "
+            "their source positions. Metadata is in `data/current-acts.json`.\n"
+        )
+        readme_path.write_text(readme, encoding="utf-8")
 
     tools = repo / "tools"
     tools.mkdir(exist_ok=True)
