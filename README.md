@@ -30,7 +30,8 @@ Der Text ist auf Deutsch, der einzigen Amtssprache Liechtensteins, so wie ihn Li
 
 - **[Claude zum liechtensteinischen Recht fragen](https://global-law.lexifina.com/v1/try_claude?country=liechtenstein)**: öffnet Claude mit einer vorbereiteten ersten Frage.
 - **[ChatGPT fragen](https://global-law.lexifina.com/v1/try_chatgpt?country=liechtenstein)**: dieselbe Frage in ChatGPT.
-- **[Die API im Browser aufrufen](https://global-law.lexifina.com/v1/search_law?query=Ferien&jurisdictions=liechtenstein)**: eine Suche im liechtensteinischen Recht nach «Ferien», als JSON. Die Dokumentation finden Sie [hier](https://lexifina.com/api/global-law).
+- **[Im liechtensteinischen Recht auf unserer Website suchen](https://lexifina.com/law?country=liechtenstein&q=Ferien)**: eine Suche nach «Ferien», mit dem Text jeder Vorschrift und ihren Fassungen, ohne Konto.
+- **[REST-API für Entwickler](https://global-law.lexifina.com/v1/search_law?query=Ferien&jurisdiction=liechtenstein)**: dieselbe Suche als JSON, ohne Schlüssel. Die Dokumentation finden Sie [hier](https://lexifina.com/api/global-law).
 
 Beide Assistenten lesen den Bestand über den kostenlosen Connector Global law (MCP, `https://global-law.lexifina.com/mcp`); beim ersten Mal gibt Ihnen der Chat den Link, mit dem Sie ihn hinzufügen. Fragen Sie auf Deutsch oder auf Englisch.
 
