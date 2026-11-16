@@ -83,6 +83,10 @@ Kein KI-Modell hat Rechtstext geschrieben oder geändert; die Werkzeuge wurden v
 
 Dies ist eine Übersetzung der englischen Fassung ([README.en.md](README.en.md)); bei Abweichungen gilt die englische Fassung.
 
+## Visualisierungen
+
+- [visualisations/](visualisations/): Diagramme aus diesem Repository. Noch nicht gezeichnet.
+
 ## Mehr
 
 Aus dem Repository [lexifina/global-law](https://github.com/lexifina/global-law) (auf Englisch):
