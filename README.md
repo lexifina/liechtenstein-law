@@ -60,6 +60,7 @@ In den drei Versionsgeschichten wird jede Änderung dem Abänderungsgesetz zuges
 - `tools/check_repo.py` liest jede Fassung der drei Versionsgeschichten am Tag ihres Inkrafttretens aus Git zurück und vergleicht sie mit dem Text von Lilex, Datei für Datei und Wort für Wort: 69 Fassungen, 0 Abweichungen.
 - `tools/check_current.py` und `tools/check_breadth.py` prüfen die übrigen Erlasse gegen Lilex: den Hash jeder Seite und jedes Bildes, jedes Datum, die Wörter des Texts sowie Stelle und Bytes jedes Bildes.
 - Dieselben Daten ergeben dieselben Commits mit denselben Hashes (`tools/build.py`, `tools/append_breadth.py`); neue Erlasse werden an die veröffentlichte Historie angehängt, ohne sie umzuschreiben. Die Ergebnisse stehen in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): mögliche Redaktionsfehler im liechtensteinischen Recht, von den Detektoren von global-law gefunden und von Hand geprüft.
 
 ## Was es nicht zeigt
 

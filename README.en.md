@@ -60,6 +60,7 @@ In the three histories each change is credited to the amending law its footnote 
 - `tools/check_repo.py` reads every version of the three histories back from git on the day it took effect and compares it with Lilex's text, file by file and word for word: 69 versions, 0 mismatches.
 - `tools/check_current.py` and `tools/check_breadth.py` check the other acts against Lilex: the hash of every page and image, every date, the words of the text, and each image's place and bytes.
 - The same data gives the same commits with the same hashes (`tools/build.py`, `tools/append_breadth.py`); new acts are appended to the published history, never rewriting it. Results are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Liechtenstein law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
